@@ -1,0 +1,3737 @@
+[
+  {
+    "id": -65,
+    "name": "黄蜂",
+    "internal_name": "BigHornetStingy"
+  },
+  {
+    "id": -64,
+    "name": "黄蜂",
+    "internal_name": "LittleHornetStingy"
+  },
+  {
+    "id": -63,
+    "name": "黄蜂",
+    "internal_name": "BigHornetSpikey"
+  },
+  {
+    "id": -62,
+    "name": "黄蜂",
+    "internal_name": "LittleHornetSpikey"
+  },
+  {
+    "id": -61,
+    "name": "黄蜂",
+    "internal_name": "BigHornetLeafy"
+  },
+  {
+    "id": -60,
+    "name": "黄蜂",
+    "internal_name": "LittleHornetLeafy"
+  },
+  {
+    "id": -59,
+    "name": "黄蜂",
+    "internal_name": "BigHornetHoney"
+  },
+  {
+    "id": -58,
+    "name": "黄蜂",
+    "internal_name": "LittleHornetHoney"
+  },
+  {
+    "id": -57,
+    "name": "黄蜂",
+    "internal_name": "BigHornetFatty"
+  },
+  {
+    "id": -56,
+    "name": "黄蜂",
+    "internal_name": "LittleHornetFatty"
+  },
+  {
+    "id": -55,
+    "name": "僵尸",
+    "internal_name": "BigRainZombie"
+  },
+  {
+    "id": -54,
+    "name": "僵尸",
+    "internal_name": "SmallRainZombie"
+  },
+  {
+    "id": -53,
+    "name": "骷髅",
+    "internal_name": "BigPantlessSkeleton"
+  },
+  {
+    "id": -52,
+    "name": "骷髅",
+    "internal_name": "SmallPantlessSkeleton"
+  },
+  {
+    "id": -51,
+    "name": "骷髅",
+    "internal_name": "BigMisassembledSkeleton"
+  },
+  {
+    "id": -50,
+    "name": "骷髅",
+    "internal_name": "SmallMisassembledSkeleton"
+  },
+  {
+    "id": -49,
+    "name": "骷髅",
+    "internal_name": "BigHeadacheSkeleton"
+  },
+  {
+    "id": -48,
+    "name": "骷髅",
+    "internal_name": "SmallHeadacheSkeleton"
+  },
+  {
+    "id": -47,
+    "name": "骷髅",
+    "internal_name": "BigSkeleton"
+  },
+  {
+    "id": -46,
+    "name": "骷髅",
+    "internal_name": "SmallSkeleton"
+  },
+  {
+    "id": -45,
+    "name": "僵尸",
+    "internal_name": "BigFemaleZombie"
+  },
+  {
+    "id": -44,
+    "name": "僵尸",
+    "internal_name": "SmallFemaleZombie"
+  },
+  {
+    "id": -43,
+    "name": "恶魔眼",
+    "internal_name": "DemonEye2"
+  },
+  {
+    "id": -42,
+    "name": "恶魔眼",
+    "internal_name": "PurpleEye2"
+  },
+  {
+    "id": -41,
+    "name": "恶魔眼",
+    "internal_name": "GreenEye2"
+  },
+  {
+    "id": -40,
+    "name": "恶魔眼",
+    "internal_name": "DialatedEye2"
+  },
+  {
+    "id": -39,
+    "name": "恶魔眼",
+    "internal_name": "SleepyEye2"
+  },
+  {
+    "id": -38,
+    "name": "恶魔眼",
+    "internal_name": "CataractEye2"
+  },
+  {
+    "id": -37,
+    "name": "僵尸",
+    "internal_name": "BigTwiggyZombie"
+  },
+  {
+    "id": -36,
+    "name": "僵尸",
+    "internal_name": "SmallTwiggyZombie"
+  },
+  {
+    "id": -35,
+    "name": "僵尸",
+    "internal_name": "BigSwampZombie"
+  },
+  {
+    "id": -34,
+    "name": "僵尸",
+    "internal_name": "SmallSwampZombie"
+  },
+  {
+    "id": -33,
+    "name": "僵尸",
+    "internal_name": "BigSlimedZombie"
+  },
+  {
+    "id": -32,
+    "name": "僵尸",
+    "internal_name": "SmallSlimedZombie"
+  },
+  {
+    "id": -31,
+    "name": "僵尸",
+    "internal_name": "BigPincushionZombie"
+  },
+  {
+    "id": -30,
+    "name": "僵尸",
+    "internal_name": "SmallPincushionZombie"
+  },
+  {
+    "id": -29,
+    "name": "僵尸",
+    "internal_name": "BigBaldZombie"
+  },
+  {
+    "id": -28,
+    "name": "僵尸",
+    "internal_name": "SmallBaldZombie"
+  },
+  {
+    "id": -27,
+    "name": "僵尸",
+    "internal_name": "BigZombie"
+  },
+  {
+    "id": -26,
+    "name": "僵尸",
+    "internal_name": "SmallZombie"
+  },
+  {
+    "id": -25,
+    "name": "猩红史莱姆",
+    "internal_name": "BigCrimslime"
+  },
+  {
+    "id": -24,
+    "name": "猩红史莱姆",
+    "internal_name": "LittleCrimslime"
+  },
+  {
+    "id": -23,
+    "name": "猩红喀迈拉",
+    "internal_name": "BigCrimera"
+  },
+  {
+    "id": -22,
+    "name": "猩红喀迈拉",
+    "internal_name": "LittleCrimera"
+  },
+  {
+    "id": -21,
+    "name": "苔藓黄蜂",
+    "internal_name": "GiantMossHornet"
+  },
+  {
+    "id": -20,
+    "name": "苔藓黄蜂",
+    "internal_name": "BigMossHornet"
+  },
+  {
+    "id": -19,
+    "name": "苔藓黄蜂",
+    "internal_name": "LittleMossHornet"
+  },
+  {
+    "id": -18,
+    "name": "苔藓黄蜂",
+    "internal_name": "TinyMossHornet"
+  },
+  {
+    "id": -17,
+    "name": "黄蜂",
+    "internal_name": "BigStinger"
+  },
+  {
+    "id": -16,
+    "name": "黄蜂",
+    "internal_name": "LittleStinger"
+  },
+  {
+    "id": -15,
+    "name": "装甲骷髅",
+    "internal_name": "HeavySkeleton"
+  },
+  {
+    "id": -14,
+    "name": "愤怒骷髅怪",
+    "internal_name": "BigBoned"
+  },
+  {
+    "id": -13,
+    "name": "愤怒骷髅怪",
+    "internal_name": "ShortBones"
+  },
+  {
+    "id": -12,
+    "name": "噬魂怪",
+    "internal_name": "BigEater"
+  },
+  {
+    "id": -11,
+    "name": "噬魂怪",
+    "internal_name": "LittleEater"
+  },
+  {
+    "id": -10,
+    "name": "丛林史莱姆",
+    "internal_name": "JungleSlime"
+  },
+  {
+    "id": -9,
+    "name": "黄史莱姆",
+    "internal_name": "YellowSlime"
+  },
+  {
+    "id": -8,
+    "name": "红史莱姆",
+    "internal_name": "RedSlime"
+  },
+  {
+    "id": -7,
+    "name": "紫史莱姆",
+    "internal_name": "PurpleSlime"
+  },
+  {
+    "id": -6,
+    "name": "黑史莱姆",
+    "internal_name": "BlackSlime"
+  },
+  {
+    "id": -5,
+    "name": "史莱姆宝宝",
+    "internal_name": "BabySlime"
+  },
+  {
+    "id": -4,
+    "name": "粉史莱姆",
+    "internal_name": "Pinky"
+  },
+  {
+    "id": -3,
+    "name": "绿史莱姆",
+    "internal_name": "GreenSlime"
+  },
+  {
+    "id": -2,
+    "name": "恶翅史莱姆",
+    "internal_name": "Slimer2"
+  },
+  {
+    "id": -1,
+    "name": "小史莱姆",
+    "internal_name": "Slimeling"
+  },
+  {
+    "id": 1,
+    "name": "蓝史莱姆",
+    "internal_name": "BlueSlime"
+  },
+  {
+    "id": 2,
+    "name": "恶魔眼",
+    "internal_name": "DemonEye"
+  },
+  {
+    "id": 3,
+    "name": "僵尸",
+    "internal_name": "Zombie"
+  },
+  {
+    "id": 4,
+    "name": "克苏鲁之眼",
+    "internal_name": "EyeofCthulhu"
+  },
+  {
+    "id": 5,
+    "name": "克苏鲁之仆",
+    "internal_name": "ServantofCthulhu"
+  },
+  {
+    "id": 6,
+    "name": "噬魂怪",
+    "internal_name": "EaterofSouls"
+  },
+  {
+    "id": 7,
+    "name": "吞噬怪",
+    "internal_name": "DevourerHead"
+  },
+  {
+    "id": 8,
+    "name": "吞噬怪",
+    "internal_name": "DevourerBody"
+  },
+  {
+    "id": 9,
+    "name": "吞噬怪",
+    "internal_name": "DevourerTail"
+  },
+  {
+    "id": 10,
+    "name": "巨型蠕虫",
+    "internal_name": "GiantWormHead"
+  },
+  {
+    "id": 11,
+    "name": "巨型蠕虫",
+    "internal_name": "GiantWormBody"
+  },
+  {
+    "id": 12,
+    "name": "巨型蠕虫",
+    "internal_name": "GiantWormTail"
+  },
+  {
+    "id": 13,
+    "name": "世界吞噬怪",
+    "internal_name": "EaterofWorldsHead"
+  },
+  {
+    "id": 14,
+    "name": "世界吞噬怪",
+    "internal_name": "EaterofWorldsBody"
+  },
+  {
+    "id": 15,
+    "name": "世界吞噬怪",
+    "internal_name": "EaterofWorldsTail"
+  },
+  {
+    "id": 16,
+    "name": "史莱姆之母",
+    "internal_name": "MotherSlime"
+  },
+  {
+    "id": 17,
+    "name": "商人",
+    "internal_name": "Merchant"
+  },
+  {
+    "id": 18,
+    "name": "护士",
+    "internal_name": "Nurse"
+  },
+  {
+    "id": 19,
+    "name": "军火商",
+    "internal_name": "ArmsDealer"
+  },
+  {
+    "id": 20,
+    "name": "树妖",
+    "internal_name": "Dryad"
+  },
+  {
+    "id": 21,
+    "name": "骷髅",
+    "internal_name": "Skeleton"
+  },
+  {
+    "id": 22,
+    "name": "向导",
+    "internal_name": "Guide"
+  },
+  {
+    "id": 23,
+    "name": "流星头",
+    "internal_name": "MeteorHead"
+  },
+  {
+    "id": 24,
+    "name": "火焰小鬼",
+    "internal_name": "FireImp"
+  },
+  {
+    "id": 25,
+    "name": "烈焰球",
+    "internal_name": "BurningSphere"
+  },
+  {
+    "id": 26,
+    "name": "哥布林苦力",
+    "internal_name": "GoblinPeon"
+  },
+  {
+    "id": 27,
+    "name": "哥布林盗贼",
+    "internal_name": "GoblinThief"
+  },
+  {
+    "id": 28,
+    "name": "哥布林战士",
+    "internal_name": "GoblinWarrior"
+  },
+  {
+    "id": 29,
+    "name": "哥布林巫士",
+    "internal_name": "GoblinSorcerer"
+  },
+  {
+    "id": 30,
+    "name": "混沌球",
+    "internal_name": "ChaosBall"
+  },
+  {
+    "id": 31,
+    "name": "愤怒骷髅怪",
+    "internal_name": "AngryBones"
+  },
+  {
+    "id": 32,
+    "name": "暗黑法师",
+    "internal_name": "DarkCaster"
+  },
+  {
+    "id": 33,
+    "name": "水球",
+    "internal_name": "WaterSphere"
+  },
+  {
+    "id": 34,
+    "name": "诅咒骷髅头",
+    "internal_name": "CursedSkull"
+  },
+  {
+    "id": 35,
+    "name": "骷髅王",
+    "internal_name": "SkeletronHead"
+  },
+  {
+    "id": 36,
+    "name": "骷髅王",
+    "internal_name": "SkeletronHand"
+  },
+  {
+    "id": 37,
+    "name": "老人",
+    "internal_name": "OldMan"
+  },
+  {
+    "id": 38,
+    "name": "爆破专家",
+    "internal_name": "Demolitionist"
+  },
+  {
+    "id": 39,
+    "name": "骨蛇",
+    "internal_name": "BoneSerpentHead"
+  },
+  {
+    "id": 40,
+    "name": "骨蛇",
+    "internal_name": "BoneSerpentBody"
+  },
+  {
+    "id": 41,
+    "name": "骨蛇",
+    "internal_name": "BoneSerpentTail"
+  },
+  {
+    "id": 42,
+    "name": "黄蜂",
+    "internal_name": "Hornet"
+  },
+  {
+    "id": 43,
+    "name": "食人怪",
+    "internal_name": "ManEater"
+  },
+  {
+    "id": 44,
+    "name": "不死矿工",
+    "internal_name": "UndeadMiner"
+  },
+  {
+    "id": 45,
+    "name": "蒂姆",
+    "internal_name": "Tim"
+  },
+  {
+    "id": 46,
+    "name": "兔兔",
+    "internal_name": "Bunny"
+  },
+  {
+    "id": 47,
+    "name": "腐化兔兔",
+    "internal_name": "CorruptBunny"
+  },
+  {
+    "id": 48,
+    "name": "鸟妖",
+    "internal_name": "Harpy"
+  },
+  {
+    "id": 49,
+    "name": "洞穴蝙蝠",
+    "internal_name": "CaveBat"
+  },
+  {
+    "id": 50,
+    "name": "史莱姆王",
+    "internal_name": "KingSlime"
+  },
+  {
+    "id": 51,
+    "name": "丛林蝙蝠",
+    "internal_name": "JungleBat"
+  },
+  {
+    "id": 52,
+    "name": "骷髅博士",
+    "internal_name": "DoctorBones"
+  },
+  {
+    "id": 53,
+    "name": "僵尸新郎",
+    "internal_name": "TheGroom"
+  },
+  {
+    "id": 54,
+    "name": "服装商",
+    "internal_name": "Clothier"
+  },
+  {
+    "id": 55,
+    "name": "金鱼",
+    "internal_name": "Goldfish"
+  },
+  {
+    "id": 56,
+    "name": "抓人草",
+    "internal_name": "Snatcher"
+  },
+  {
+    "id": 57,
+    "name": "腐化金鱼",
+    "internal_name": "CorruptGoldfish"
+  },
+  {
+    "id": 58,
+    "name": "食人鱼",
+    "internal_name": "Piranha"
+  },
+  {
+    "id": 59,
+    "name": "熔岩史莱姆",
+    "internal_name": "LavaSlime"
+  },
+  {
+    "id": 60,
+    "name": "地狱蝙蝠",
+    "internal_name": "Hellbat"
+  },
+  {
+    "id": 61,
+    "name": "秃鹰",
+    "internal_name": "Vulture"
+  },
+  {
+    "id": 62,
+    "name": "恶魔",
+    "internal_name": "Demon"
+  },
+  {
+    "id": 63,
+    "name": "蓝水母",
+    "internal_name": "BlueJellyfish"
+  },
+  {
+    "id": 64,
+    "name": "粉水母",
+    "internal_name": "PinkJellyfish"
+  },
+  {
+    "id": 65,
+    "name": "鲨鱼",
+    "internal_name": "Shark"
+  },
+  {
+    "id": 66,
+    "name": "巫毒恶魔",
+    "internal_name": "VoodooDemon"
+  },
+  {
+    "id": 67,
+    "name": "螃蟹",
+    "internal_name": "Crab"
+  },
+  {
+    "id": 68,
+    "name": "地牢守卫",
+    "internal_name": "DungeonGuardian"
+  },
+  {
+    "id": 69,
+    "name": "蚁狮",
+    "internal_name": "Antlion"
+  },
+  {
+    "id": 70,
+    "name": "尖刺球",
+    "internal_name": "SpikeBall"
+  },
+  {
+    "id": 71,
+    "name": "地牢史莱姆",
+    "internal_name": "DungeonSlime"
+  },
+  {
+    "id": 72,
+    "name": "烈焰火轮",
+    "internal_name": "BlazingWheel"
+  },
+  {
+    "id": 73,
+    "name": "哥布林侦察兵",
+    "internal_name": "GoblinScout"
+  },
+  {
+    "id": 74,
+    "name": "鸟",
+    "internal_name": "Bird"
+  },
+  {
+    "id": 75,
+    "name": "妖精",
+    "internal_name": "Pixie"
+  },
+  {
+    "id": 77,
+    "name": "装甲骷髅",
+    "internal_name": "ArmoredSkeleton"
+  },
+  {
+    "id": 78,
+    "name": "木乃伊",
+    "internal_name": "Mummy"
+  },
+  {
+    "id": 79,
+    "name": "暗黑木乃伊",
+    "internal_name": "DarkMummy"
+  },
+  {
+    "id": 80,
+    "name": "光明木乃伊",
+    "internal_name": "LightMummy"
+  },
+  {
+    "id": 81,
+    "name": "腐化史莱姆",
+    "internal_name": "CorruptSlime"
+  },
+  {
+    "id": 82,
+    "name": "幻灵",
+    "internal_name": "Wraith"
+  },
+  {
+    "id": 83,
+    "name": "诅咒锤",
+    "internal_name": "CursedHammer"
+  },
+  {
+    "id": 84,
+    "name": "附魔剑",
+    "internal_name": "EnchantedSword"
+  },
+  {
+    "id": 85,
+    "name": "宝箱怪",
+    "internal_name": "Mimic"
+  },
+  {
+    "id": 86,
+    "name": "独角兽",
+    "internal_name": "Unicorn"
+  },
+  {
+    "id": 87,
+    "name": "飞龙",
+    "internal_name": "WyvernHead"
+  },
+  {
+    "id": 88,
+    "name": "飞龙",
+    "internal_name": "WyvernLegs"
+  },
+  {
+    "id": 89,
+    "name": "飞龙",
+    "internal_name": "WyvernBody"
+  },
+  {
+    "id": 90,
+    "name": "飞龙",
+    "internal_name": "WyvernBody2"
+  },
+  {
+    "id": 91,
+    "name": "飞龙",
+    "internal_name": "WyvernBody3"
+  },
+  {
+    "id": 92,
+    "name": "飞龙",
+    "internal_name": "WyvernTail"
+  },
+  {
+    "id": 93,
+    "name": "巨型蝙蝠",
+    "internal_name": "GiantBat"
+  },
+  {
+    "id": 94,
+    "name": "腐化者",
+    "internal_name": "Corruptor"
+  },
+  {
+    "id": 95,
+    "name": "挖掘怪",
+    "internal_name": "DiggerHead"
+  },
+  {
+    "id": 96,
+    "name": "挖掘怪",
+    "internal_name": "DiggerBody"
+  },
+  {
+    "id": 97,
+    "name": "挖掘怪",
+    "internal_name": "DiggerTail"
+  },
+  {
+    "id": 98,
+    "name": "吞世怪",
+    "internal_name": "SeekerHead"
+  },
+  {
+    "id": 99,
+    "name": "吞世怪",
+    "internal_name": "SeekerBody"
+  },
+  {
+    "id": 100,
+    "name": "吞世怪",
+    "internal_name": "SeekerTail"
+  },
+  {
+    "id": 101,
+    "name": "爬藤怪",
+    "internal_name": "Clinger"
+  },
+  {
+    "id": 102,
+    "name": "琵琶鱼",
+    "internal_name": "AnglerFish"
+  },
+  {
+    "id": 103,
+    "name": "绿水母",
+    "internal_name": "GreenJellyfish"
+  },
+  {
+    "id": 104,
+    "name": "狼人",
+    "internal_name": "Werewolf"
+  },
+  {
+    "id": 105,
+    "name": "受缚哥布林",
+    "internal_name": "BoundGoblin"
+  },
+  {
+    "id": 106,
+    "name": "受缚巫师",
+    "internal_name": "BoundWizard"
+  },
+  {
+    "id": 107,
+    "name": "哥布林工匠",
+    "internal_name": "GoblinTinkerer"
+  },
+  {
+    "id": 108,
+    "name": "巫师",
+    "internal_name": "Wizard"
+  },
+  {
+    "id": 109,
+    "name": "小丑",
+    "internal_name": "Clown"
+  },
+  {
+    "id": 110,
+    "name": "骷髅弓箭手",
+    "internal_name": "SkeletonArcher"
+  },
+  {
+    "id": 111,
+    "name": "哥布林弓箭手",
+    "internal_name": "GoblinArcher"
+  },
+  {
+    "id": 112,
+    "name": "魔唾液",
+    "internal_name": "VileSpit"
+  },
+  {
+    "id": 113,
+    "name": "血肉墙",
+    "internal_name": "WallofFlesh"
+  },
+  {
+    "id": 114,
+    "name": "血肉墙",
+    "internal_name": "WallofFleshEye"
+  },
+  {
+    "id": 115,
+    "name": "饿鬼",
+    "internal_name": "TheHungry"
+  },
+  {
+    "id": 116,
+    "name": "饿鬼",
+    "internal_name": "TheHungryII"
+  },
+  {
+    "id": 117,
+    "name": "血蛭",
+    "internal_name": "LeechHead"
+  },
+  {
+    "id": 118,
+    "name": "血蛭",
+    "internal_name": "LeechBody"
+  },
+  {
+    "id": 119,
+    "name": "血蛭",
+    "internal_name": "LeechTail"
+  },
+  {
+    "id": 120,
+    "name": "混沌精",
+    "internal_name": "ChaosElemental"
+  },
+  {
+    "id": 121,
+    "name": "恶翅史莱姆",
+    "internal_name": "Slimer"
+  },
+  {
+    "id": 122,
+    "name": "腹足怪",
+    "internal_name": "Gastropod"
+  },
+  {
+    "id": 123,
+    "name": "受缚机械师",
+    "internal_name": "BoundMechanic"
+  },
+  {
+    "id": 124,
+    "name": "机械师",
+    "internal_name": "Mechanic"
+  },
+  {
+    "id": 125,
+    "name": "激光眼",
+    "internal_name": "Retinazer"
+  },
+  {
+    "id": 126,
+    "name": "魔焰眼",
+    "internal_name": "Spazmatism"
+  },
+  {
+    "id": 127,
+    "name": "机械骷髅王",
+    "internal_name": "SkeletronPrime"
+  },
+  {
+    "id": 128,
+    "name": "机械炮",
+    "internal_name": "PrimeCannon"
+  },
+  {
+    "id": 129,
+    "name": "机械锯",
+    "internal_name": "PrimeSaw"
+  },
+  {
+    "id": 130,
+    "name": "机械钳",
+    "internal_name": "PrimeVice"
+  },
+  {
+    "id": 131,
+    "name": "机械激光",
+    "internal_name": "PrimeLaser"
+  },
+  {
+    "id": 132,
+    "name": "僵尸",
+    "internal_name": "BaldZombie"
+  },
+  {
+    "id": 133,
+    "name": "游荡眼球怪",
+    "internal_name": "WanderingEye"
+  },
+  {
+    "id": 134,
+    "name": "毁灭者",
+    "internal_name": "TheDestroyer"
+  },
+  {
+    "id": 135,
+    "name": "毁灭者",
+    "internal_name": "TheDestroyerBody"
+  },
+  {
+    "id": 136,
+    "name": "毁灭者",
+    "internal_name": "TheDestroyerTail"
+  },
+  {
+    "id": 137,
+    "name": "夜明蝙蝠",
+    "internal_name": "IlluminantBat"
+  },
+  {
+    "id": 138,
+    "name": "夜明史莱姆",
+    "internal_name": "IlluminantSlime"
+  },
+  {
+    "id": 139,
+    "name": "探测怪",
+    "internal_name": "Probe"
+  },
+  {
+    "id": 140,
+    "name": "装甲幻影魔",
+    "internal_name": "PossessedArmor"
+  },
+  {
+    "id": 141,
+    "name": "毒泥",
+    "internal_name": "ToxicSludge"
+  },
+  {
+    "id": 142,
+    "name": "圣诞老人",
+    "internal_name": "SantaClaus"
+  },
+  {
+    "id": 143,
+    "name": "雪人暴徒",
+    "internal_name": "SnowmanGangsta"
+  },
+  {
+    "id": 144,
+    "name": "戳刺先生",
+    "internal_name": "MisterStabby"
+  },
+  {
+    "id": 145,
+    "name": "巴拉雪人",
+    "internal_name": "SnowBalla"
+  },
+  {
+    "id": 147,
+    "name": "冰雪史莱姆",
+    "internal_name": "IceSlime"
+  },
+  {
+    "id": 148,
+    "name": "企鹅",
+    "internal_name": "Penguin"
+  },
+  {
+    "id": 149,
+    "name": "企鹅",
+    "internal_name": "PenguinBlack"
+  },
+  {
+    "id": 150,
+    "name": "冰雪蝙蝠",
+    "internal_name": "IceBat"
+  },
+  {
+    "id": 151,
+    "name": "熔岩蝙蝠",
+    "internal_name": "Lavabat"
+  },
+  {
+    "id": 152,
+    "name": "巨型飞狐",
+    "internal_name": "GiantFlyingFox"
+  },
+  {
+    "id": 153,
+    "name": "巨型陆龟",
+    "internal_name": "GiantTortoise"
+  },
+  {
+    "id": 154,
+    "name": "冰雪陆龟",
+    "internal_name": "IceTortoise"
+  },
+  {
+    "id": 155,
+    "name": "狼",
+    "internal_name": "Wolf"
+  },
+  {
+    "id": 156,
+    "name": "红魔鬼",
+    "internal_name": "RedDevil"
+  },
+  {
+    "id": 157,
+    "name": "巨骨舌鱼",
+    "internal_name": "Arapaima"
+  },
+  {
+    "id": 158,
+    "name": "吸血鬼",
+    "internal_name": "VampireBat"
+  },
+  {
+    "id": 159,
+    "name": "吸血鬼",
+    "internal_name": "Vampire"
+  },
+  {
+    "id": 160,
+    "name": "松露人",
+    "internal_name": "Truffle"
+  },
+  {
+    "id": 161,
+    "name": "冰冻僵尸",
+    "internal_name": "ZombieEskimo"
+  },
+  {
+    "id": 162,
+    "name": "科学怪人",
+    "internal_name": "Frankenstein"
+  },
+  {
+    "id": 163,
+    "name": "黑隐士",
+    "internal_name": "BlackRecluse"
+  },
+  {
+    "id": 164,
+    "name": "爬墙蜘蛛",
+    "internal_name": "WallCreeper"
+  },
+  {
+    "id": 165,
+    "name": "爬墙蜘蛛",
+    "internal_name": "WallCreeperWall"
+  },
+  {
+    "id": 166,
+    "name": "沼泽怪",
+    "internal_name": "SwampThing"
+  },
+  {
+    "id": 167,
+    "name": "亡灵维京海盗",
+    "internal_name": "UndeadViking"
+  },
+  {
+    "id": 168,
+    "name": "腐化企鹅",
+    "internal_name": "CorruptPenguin"
+  },
+  {
+    "id": 169,
+    "name": "冰雪精",
+    "internal_name": "IceElemental"
+  },
+  {
+    "id": 170,
+    "name": "猪龙",
+    "internal_name": "PigronCorruption"
+  },
+  {
+    "id": 171,
+    "name": "猪龙",
+    "internal_name": "PigronHallow"
+  },
+  {
+    "id": 172,
+    "name": "符文巫师",
+    "internal_name": "RuneWizard"
+  },
+  {
+    "id": 173,
+    "name": "猩红喀迈拉",
+    "internal_name": "Crimera"
+  },
+  {
+    "id": 174,
+    "name": "蹦蹦兽",
+    "internal_name": "Herpling"
+  },
+  {
+    "id": 175,
+    "name": "愤怒捕手",
+    "internal_name": "AngryTrapper"
+  },
+  {
+    "id": 176,
+    "name": "苔藓黄蜂",
+    "internal_name": "MossHornet"
+  },
+  {
+    "id": 177,
+    "name": "跳跳兽",
+    "internal_name": "Derpling"
+  },
+  {
+    "id": 178,
+    "name": "蒸汽朋克人",
+    "internal_name": "Steampunker"
+  },
+  {
+    "id": 179,
+    "name": "猩红斧",
+    "internal_name": "CrimsonAxe"
+  },
+  {
+    "id": 180,
+    "name": "猪龙",
+    "internal_name": "PigronCrimson"
+  },
+  {
+    "id": 181,
+    "name": "脸怪",
+    "internal_name": "FaceMonster"
+  },
+  {
+    "id": 182,
+    "name": "恶心浮游怪",
+    "internal_name": "FloatyGross"
+  },
+  {
+    "id": 183,
+    "name": "猩红史莱姆",
+    "internal_name": "Crimslime"
+  },
+  {
+    "id": 184,
+    "name": "尖刺冰雪史莱姆",
+    "internal_name": "SpikedIceSlime"
+  },
+  {
+    "id": 185,
+    "name": "小雪怪",
+    "internal_name": "SnowFlinx"
+  },
+  {
+    "id": 186,
+    "name": "僵尸",
+    "internal_name": "PincushionZombie"
+  },
+  {
+    "id": 187,
+    "name": "僵尸",
+    "internal_name": "SlimedZombie"
+  },
+  {
+    "id": 188,
+    "name": "僵尸",
+    "internal_name": "SwampZombie"
+  },
+  {
+    "id": 189,
+    "name": "僵尸",
+    "internal_name": "TwiggyZombie"
+  },
+  {
+    "id": 190,
+    "name": "恶魔眼",
+    "internal_name": "CataractEye"
+  },
+  {
+    "id": 191,
+    "name": "恶魔眼",
+    "internal_name": "SleepyEye"
+  },
+  {
+    "id": 192,
+    "name": "恶魔眼",
+    "internal_name": "DialatedEye"
+  },
+  {
+    "id": 193,
+    "name": "恶魔眼",
+    "internal_name": "GreenEye"
+  },
+  {
+    "id": 194,
+    "name": "恶魔眼",
+    "internal_name": "PurpleEye"
+  },
+  {
+    "id": 195,
+    "name": "迷失女孩",
+    "internal_name": "LostGirl"
+  },
+  {
+    "id": 196,
+    "name": "宁芙",
+    "internal_name": "Nymph"
+  },
+  {
+    "id": 197,
+    "name": "装甲维京海盗",
+    "internal_name": "ArmoredViking"
+  },
+  {
+    "id": 198,
+    "name": "丛林蜥蜴",
+    "internal_name": "Lihzahrd"
+  },
+  {
+    "id": 199,
+    "name": "丛林蜥蜴",
+    "internal_name": "LihzahrdCrawler"
+  },
+  {
+    "id": 200,
+    "name": "僵尸",
+    "internal_name": "FemaleZombie"
+  },
+  {
+    "id": 201,
+    "name": "骷髅",
+    "internal_name": "HeadacheSkeleton"
+  },
+  {
+    "id": 202,
+    "name": "骷髅",
+    "internal_name": "MisassembledSkeleton"
+  },
+  {
+    "id": 203,
+    "name": "骷髅",
+    "internal_name": "PantlessSkeleton"
+  },
+  {
+    "id": 204,
+    "name": "尖刺丛林史莱姆",
+    "internal_name": "SpikedJungleSlime"
+  },
+  {
+    "id": 205,
+    "name": "蛾",
+    "internal_name": "Moth"
+  },
+  {
+    "id": 206,
+    "name": "冰雪人鱼",
+    "internal_name": "IcyMerman"
+  },
+  {
+    "id": 207,
+    "name": "染料商(电脑版、主机版、前代主机版、和移动版)",
+    "internal_name": "DyeTrader"
+  },
+  {
+    "id": 208,
+    "name": "派对女孩",
+    "internal_name": "PartyGirl"
+  },
+  {
+    "id": 209,
+    "name": "机器侠",
+    "internal_name": "Cyborg"
+  },
+  {
+    "id": 210,
+    "name": "蜜蜂",
+    "internal_name": "Bee"
+  },
+  {
+    "id": 211,
+    "name": "蜜蜂",
+    "internal_name": "BeeSmall"
+  },
+  {
+    "id": 212,
+    "name": "海盗水手",
+    "internal_name": "PirateDeckhand"
+  },
+  {
+    "id": 213,
+    "name": "私船海盗",
+    "internal_name": "PirateCorsair"
+  },
+  {
+    "id": 214,
+    "name": "海盗神射手",
+    "internal_name": "PirateDeadeye"
+  },
+  {
+    "id": 215,
+    "name": "海盗弩手",
+    "internal_name": "PirateCrossbower"
+  },
+  {
+    "id": 216,
+    "name": "海盗船长",
+    "internal_name": "PirateCaptain"
+  },
+  {
+    "id": 217,
+    "name": "胭脂虫",
+    "internal_name": "CochinealBeetle"
+  },
+  {
+    "id": 218,
+    "name": "青壳虫",
+    "internal_name": "CyanBeetle"
+  },
+  {
+    "id": 219,
+    "name": "紫胶虫",
+    "internal_name": "LacBeetle"
+  },
+  {
+    "id": 220,
+    "name": "海蜗牛",
+    "internal_name": "SeaSnail"
+  },
+  {
+    "id": 221,
+    "name": "乌贼",
+    "internal_name": "Squid"
+  },
+  {
+    "id": 222,
+    "name": "蜂王",
+    "internal_name": "QueenBee"
+  },
+  {
+    "id": 223,
+    "name": "雨衣僵尸",
+    "internal_name": "ZombieRaincoat"
+  },
+  {
+    "id": 224,
+    "name": "飞鱼",
+    "internal_name": "FlyingFish"
+  },
+  {
+    "id": 225,
+    "name": "雨伞史莱姆",
+    "internal_name": "UmbrellaSlime"
+  },
+  {
+    "id": 226,
+    "name": "飞蛇",
+    "internal_name": "FlyingSnake"
+  },
+  {
+    "id": 227,
+    "name": "油漆工",
+    "internal_name": "Painter"
+  },
+  {
+    "id": 228,
+    "name": "巫医",
+    "internal_name": "WitchDoctor"
+  },
+  {
+    "id": 229,
+    "name": "海盗",
+    "internal_name": "Pirate"
+  },
+  {
+    "id": 230,
+    "name": "金鱼",
+    "internal_name": "GoldfishWalker"
+  },
+  {
+    "id": 231,
+    "name": "黄蜂",
+    "internal_name": "HornetFatty"
+  },
+  {
+    "id": 232,
+    "name": "黄蜂",
+    "internal_name": "HornetHoney"
+  },
+  {
+    "id": 233,
+    "name": "黄蜂",
+    "internal_name": "HornetLeafy"
+  },
+  {
+    "id": 234,
+    "name": "黄蜂",
+    "internal_name": "HornetSpikey"
+  },
+  {
+    "id": 235,
+    "name": "黄蜂",
+    "internal_name": "HornetStingy"
+  },
+  {
+    "id": 236,
+    "name": "丛林蜘蛛",
+    "internal_name": "JungleCreeper"
+  },
+  {
+    "id": 237,
+    "name": "丛林蜘蛛",
+    "internal_name": "JungleCreeperWall"
+  },
+  {
+    "id": 238,
+    "name": "黑隐士",
+    "internal_name": "BlackRecluseWall"
+  },
+  {
+    "id": 239,
+    "name": "血爬虫",
+    "internal_name": "BloodCrawler"
+  },
+  {
+    "id": 240,
+    "name": "血爬虫",
+    "internal_name": "BloodCrawlerWall"
+  },
+  {
+    "id": 241,
+    "name": "嗜血怪",
+    "internal_name": "BloodFeeder"
+  },
+  {
+    "id": 242,
+    "name": "血水母",
+    "internal_name": "BloodJelly"
+  },
+  {
+    "id": 243,
+    "name": "冰雪巨人",
+    "internal_name": "IceGolem"
+  },
+  {
+    "id": 244,
+    "name": "彩虹史莱姆",
+    "internal_name": "RainbowSlime"
+  },
+  {
+    "id": 245,
+    "name": "石巨人",
+    "internal_name": "Golem"
+  },
+  {
+    "id": 246,
+    "name": "石巨人头",
+    "internal_name": "GolemHead"
+  },
+  {
+    "id": 247,
+    "name": "石巨人之拳",
+    "internal_name": "GolemFistLeft"
+  },
+  {
+    "id": 249,
+    "name": "石巨人头",
+    "internal_name": "GolemHeadFree"
+  },
+  {
+    "id": 250,
+    "name": "愤怒雨云怪",
+    "internal_name": "AngryNimbus"
+  },
+  {
+    "id": 251,
+    "name": "眼怪",
+    "internal_name": "Eyezor"
+  },
+  {
+    "id": 252,
+    "name": "鹦鹉",
+    "internal_name": "Parrot"
+  },
+  {
+    "id": 253,
+    "name": "死神",
+    "internal_name": "Reaper"
+  },
+  {
+    "id": 254,
+    "name": "孢子僵尸",
+    "internal_name": "ZombieMushroom"
+  },
+  {
+    "id": 255,
+    "name": "孢子僵尸",
+    "internal_name": "ZombieMushroomHat"
+  },
+  {
+    "id": 256,
+    "name": "蘑菇鱼",
+    "internal_name": "FungoFish"
+  },
+  {
+    "id": 257,
+    "name": "歪尾真菌",
+    "internal_name": "AnomuraFungus"
+  },
+  {
+    "id": 258,
+    "name": "蘑菇瓢虫",
+    "internal_name": "MushiLadybug"
+  },
+  {
+    "id": 259,
+    "name": "真菌球怪",
+    "internal_name": "FungiBulb"
+  },
+  {
+    "id": 260,
+    "name": "巨型真菌球怪",
+    "internal_name": "GiantFungiBulb"
+  },
+  {
+    "id": 261,
+    "name": "真菌孢子",
+    "internal_name": "FungiSpore"
+  },
+  {
+    "id": 262,
+    "name": "世纪之花",
+    "internal_name": "Plantera"
+  },
+  {
+    "id": 263,
+    "name": "世纪之花钩",
+    "internal_name": "PlanterasHook"
+  },
+  {
+    "id": 264,
+    "name": "世纪之花触手",
+    "internal_name": "PlanterasTentacle"
+  },
+  {
+    "id": 265,
+    "name": "孢子",
+    "internal_name": "Spore"
+  },
+  {
+    "id": 266,
+    "name": "克苏鲁之脑",
+    "internal_name": "BrainofCthulhu"
+  },
+  {
+    "id": 267,
+    "name": "飞眼怪",
+    "internal_name": "Creeper"
+  },
+  {
+    "id": 268,
+    "name": "灵液黏黏怪",
+    "internal_name": "IchorSticker"
+  },
+  {
+    "id": 269,
+    "name": "生锈装甲骷髅",
+    "internal_name": "RustyArmoredBonesAxe"
+  },
+  {
+    "id": 270,
+    "name": "生锈装甲骷髅",
+    "internal_name": "RustyArmoredBonesFlail"
+  },
+  {
+    "id": 271,
+    "name": "生锈装甲骷髅",
+    "internal_name": "RustyArmoredBonesSword"
+  },
+  {
+    "id": 272,
+    "name": "生锈装甲骷髅",
+    "internal_name": "RustyArmoredBonesSwordNoArmor"
+  },
+  {
+    "id": 273,
+    "name": "蓝装甲骷髅",
+    "internal_name": "BlueArmoredBones"
+  },
+  {
+    "id": 274,
+    "name": "蓝装甲骷髅",
+    "internal_name": "BlueArmoredBonesMace"
+  },
+  {
+    "id": 275,
+    "name": "蓝装甲骷髅",
+    "internal_name": "BlueArmoredBonesNoPants"
+  },
+  {
+    "id": 276,
+    "name": "蓝装甲骷髅",
+    "internal_name": "BlueArmoredBonesSword"
+  },
+  {
+    "id": 277,
+    "name": "地狱装甲骷髅",
+    "internal_name": "HellArmoredBones"
+  },
+  {
+    "id": 278,
+    "name": "地狱装甲骷髅",
+    "internal_name": "HellArmoredBonesSpikeShield"
+  },
+  {
+    "id": 279,
+    "name": "地狱装甲骷髅",
+    "internal_name": "HellArmoredBonesMace"
+  },
+  {
+    "id": 280,
+    "name": "地狱装甲骷髅",
+    "internal_name": "HellArmoredBonesSword"
+  },
+  {
+    "id": 281,
+    "name": "褴褛邪教徒法师",
+    "internal_name": "RaggedCaster"
+  },
+  {
+    "id": 282,
+    "name": "褴褛邪教徒法师",
+    "internal_name": "RaggedCasterOpenCoat"
+  },
+  {
+    "id": 283,
+    "name": "死灵法师",
+    "internal_name": "Necromancer"
+  },
+  {
+    "id": 284,
+    "name": "死灵法师",
+    "internal_name": "NecromancerArmored"
+  },
+  {
+    "id": 285,
+    "name": "魔教徒",
+    "internal_name": "DiabolistRed"
+  },
+  {
+    "id": 286,
+    "name": "魔教徒",
+    "internal_name": "DiabolistWhite"
+  },
+  {
+    "id": 287,
+    "name": "骷髅李",
+    "internal_name": "BoneLee"
+  },
+  {
+    "id": 288,
+    "name": "地牢幽魂",
+    "internal_name": "DungeonSpirit"
+  },
+  {
+    "id": 289,
+    "name": "巨型诅咒骷髅头",
+    "internal_name": "GiantCursedSkull"
+  },
+  {
+    "id": 290,
+    "name": "圣骑士",
+    "internal_name": "Paladin"
+  },
+  {
+    "id": 291,
+    "name": "骷髅狙击手",
+    "internal_name": "SkeletonSniper"
+  },
+  {
+    "id": 292,
+    "name": "骷髅特警",
+    "internal_name": "TacticalSkeleton"
+  },
+  {
+    "id": 293,
+    "name": "骷髅突击手",
+    "internal_name": "SkeletonCommando"
+  },
+  {
+    "id": 294,
+    "name": "愤怒骷髅怪",
+    "internal_name": "AngryBonesBig"
+  },
+  {
+    "id": 295,
+    "name": "愤怒骷髅怪",
+    "internal_name": "AngryBonesBigMuscle"
+  },
+  {
+    "id": 296,
+    "name": "愤怒骷髅怪",
+    "internal_name": "AngryBonesBigHelmet"
+  },
+  {
+    "id": 297,
+    "name": "冠蓝鸦",
+    "internal_name": "BirdBlue"
+  },
+  {
+    "id": 298,
+    "name": "红雀",
+    "internal_name": "BirdRed"
+  },
+  {
+    "id": 299,
+    "name": "松鼠",
+    "internal_name": "Squirrel"
+  },
+  {
+    "id": 300,
+    "name": "老鼠",
+    "internal_name": "Mouse"
+  },
+  {
+    "id": 301,
+    "name": "乌鸦",
+    "internal_name": "Raven"
+  },
+  {
+    "id": 302,
+    "name": "史莱姆",
+    "internal_name": "SlimeMasked"
+  },
+  {
+    "id": 303,
+    "name": "兔兔",
+    "internal_name": "BunnySlimed"
+  },
+  {
+    "id": 304,
+    "name": "弹跳杰克南瓜灯",
+    "internal_name": "HoppinJack"
+  },
+  {
+    "id": 305,
+    "name": "稻草人",
+    "internal_name": "Scarecrow1"
+  },
+  {
+    "id": 306,
+    "name": "稻草人",
+    "internal_name": "Scarecrow2"
+  },
+  {
+    "id": 307,
+    "name": "稻草人",
+    "internal_name": "Scarecrow3"
+  },
+  {
+    "id": 308,
+    "name": "稻草人",
+    "internal_name": "Scarecrow4"
+  },
+  {
+    "id": 309,
+    "name": "稻草人",
+    "internal_name": "Scarecrow5"
+  },
+  {
+    "id": 310,
+    "name": "稻草人",
+    "internal_name": "Scarecrow6"
+  },
+  {
+    "id": 311,
+    "name": "稻草人",
+    "internal_name": "Scarecrow7"
+  },
+  {
+    "id": 312,
+    "name": "稻草人",
+    "internal_name": "Scarecrow8"
+  },
+  {
+    "id": 313,
+    "name": "稻草人",
+    "internal_name": "Scarecrow9"
+  },
+  {
+    "id": 314,
+    "name": "稻草人",
+    "internal_name": "Scarecrow10"
+  },
+  {
+    "id": 315,
+    "name": "无头骑士",
+    "internal_name": "HeadlessHorseman"
+  },
+  {
+    "id": 316,
+    "name": "鬼魂(电脑版、主机版、前代主机版、和移动版)",
+    "internal_name": "Ghost"
+  },
+  {
+    "id": 317,
+    "name": "恶魔眼",
+    "internal_name": "DemonEyeOwl"
+  },
+  {
+    "id": 318,
+    "name": "恶魔眼",
+    "internal_name": "DemonEyeSpaceship"
+  },
+  {
+    "id": 319,
+    "name": "僵尸",
+    "internal_name": "ZombieDoctor"
+  },
+  {
+    "id": 320,
+    "name": "僵尸",
+    "internal_name": "ZombieSuperman"
+  },
+  {
+    "id": 321,
+    "name": "僵尸",
+    "internal_name": "ZombiePixie"
+  },
+  {
+    "id": 322,
+    "name": "骷髅",
+    "internal_name": "SkeletonTopHat"
+  },
+  {
+    "id": 323,
+    "name": "骷髅",
+    "internal_name": "SkeletonAstonaut"
+  },
+  {
+    "id": 324,
+    "name": "骷髅",
+    "internal_name": "SkeletonAlien"
+  },
+  {
+    "id": 325,
+    "name": "哀木",
+    "internal_name": "MourningWood"
+  },
+  {
+    "id": 326,
+    "name": "树精",
+    "internal_name": "Splinterling"
+  },
+  {
+    "id": 327,
+    "name": "南瓜王",
+    "internal_name": "Pumpking"
+  },
+  {
+    "id": 328,
+    "name": "南瓜王",
+    "internal_name": "PumpkingBlade"
+  },
+  {
+    "id": 329,
+    "name": "地狱犬",
+    "internal_name": "Hellhound"
+  },
+  {
+    "id": 330,
+    "name": "胡闹鬼",
+    "internal_name": "Poltergeist"
+  },
+  {
+    "id": 331,
+    "name": "僵尸",
+    "internal_name": "ZombieXmas"
+  },
+  {
+    "id": 332,
+    "name": "僵尸",
+    "internal_name": "ZombieSweater"
+  },
+  {
+    "id": 333,
+    "name": "史莱姆",
+    "internal_name": "SlimeRibbonWhite"
+  },
+  {
+    "id": 334,
+    "name": "史莱姆",
+    "internal_name": "SlimeRibbonYellow"
+  },
+  {
+    "id": 335,
+    "name": "史莱姆",
+    "internal_name": "SlimeRibbonGreen"
+  },
+  {
+    "id": 336,
+    "name": "史莱姆",
+    "internal_name": "SlimeRibbonRed"
+  },
+  {
+    "id": 337,
+    "name": "兔兔",
+    "internal_name": "BunnyXmas"
+  },
+  {
+    "id": 338,
+    "name": "僵尸精灵",
+    "internal_name": "ZombieElf"
+  },
+  {
+    "id": 339,
+    "name": "僵尸精灵",
+    "internal_name": "ZombieElfBeard"
+  },
+  {
+    "id": 340,
+    "name": "僵尸精灵",
+    "internal_name": "ZombieElfGirl"
+  },
+  {
+    "id": 341,
+    "name": "礼物宝箱怪",
+    "internal_name": "PresentMimic"
+  },
+  {
+    "id": 342,
+    "name": "姜饼人",
+    "internal_name": "GingerbreadMan"
+  },
+  {
+    "id": 343,
+    "name": "雪兽",
+    "internal_name": "Yeti"
+  },
+  {
+    "id": 344,
+    "name": "常绿尖叫怪",
+    "internal_name": "Everscream"
+  },
+  {
+    "id": 345,
+    "name": "冰雪女王",
+    "internal_name": "IceQueen"
+  },
+  {
+    "id": 346,
+    "name": "圣诞坦克",
+    "internal_name": "SantaNK1"
+  },
+  {
+    "id": 347,
+    "name": "精灵直升机",
+    "internal_name": "ElfCopter"
+  },
+  {
+    "id": 348,
+    "name": "胡桃夹士",
+    "internal_name": "Nutcracker"
+  },
+  {
+    "id": 349,
+    "name": "胡桃夹士",
+    "internal_name": "NutcrackerSpinning"
+  },
+  {
+    "id": 350,
+    "name": "精灵弓箭手",
+    "internal_name": "ElfArcher"
+  },
+  {
+    "id": 351,
+    "name": "坎卜斯",
+    "internal_name": "Krampus"
+  },
+  {
+    "id": 352,
+    "name": "雪花怪",
+    "internal_name": "Flocko"
+  },
+  {
+    "id": 353,
+    "name": "发型师(电脑版、主机版、前代主机版、和移动版)",
+    "internal_name": "Stylist"
+  },
+  {
+    "id": 354,
+    "name": "被网住的发型师(电脑版、主机版、前代主机版、和移动版)",
+    "internal_name": "WebbedStylist"
+  },
+  {
+    "id": 355,
+    "name": "萤火虫",
+    "internal_name": "Firefly"
+  },
+  {
+    "id": 356,
+    "name": "蝴蝶",
+    "internal_name": "Butterfly"
+  },
+  {
+    "id": 357,
+    "name": "蠕虫",
+    "internal_name": "Worm"
+  },
+  {
+    "id": 358,
+    "name": "荧光虫",
+    "internal_name": "LightningBug"
+  },
+  {
+    "id": 359,
+    "name": "蜗牛",
+    "internal_name": "Snail"
+  },
+  {
+    "id": 360,
+    "name": "发光蜗牛",
+    "internal_name": "GlowingSnail"
+  },
+  {
+    "id": 361,
+    "name": "青蛙",
+    "internal_name": "Frog"
+  },
+  {
+    "id": 362,
+    "name": "鸭",
+    "internal_name": "Duck"
+  },
+  {
+    "id": 363,
+    "name": "鸭",
+    "internal_name": "Duck2"
+  },
+  {
+    "id": 364,
+    "name": "鸭",
+    "internal_name": "DuckWhite"
+  },
+  {
+    "id": 365,
+    "name": "鸭",
+    "internal_name": "DuckWhite2"
+  },
+  {
+    "id": 366,
+    "name": "蝎子",
+    "internal_name": "ScorpionBlack"
+  },
+  {
+    "id": 367,
+    "name": "蝎子",
+    "internal_name": "Scorpion"
+  },
+  {
+    "id": 368,
+    "name": "旅商(电脑版、主机版、前代主机版、和移动版)",
+    "internal_name": "TravellingMerchant"
+  },
+  {
+    "id": 369,
+    "name": "渔夫",
+    "internal_name": "Angler"
+  },
+  {
+    "id": 370,
+    "name": "猪龙鱼公爵",
+    "internal_name": "DukeFishron"
+  },
+  {
+    "id": 371,
+    "name": "爆炸泡泡",
+    "internal_name": "DetonatingBubble"
+  },
+  {
+    "id": 372,
+    "name": "鲨鱼龙",
+    "internal_name": "Sharkron"
+  },
+  {
+    "id": 373,
+    "name": "鲨鱼龙",
+    "internal_name": "Sharkron2"
+  },
+  {
+    "id": 374,
+    "name": "松露虫",
+    "internal_name": "TruffleWorm"
+  },
+  {
+    "id": 375,
+    "name": "松露虫",
+    "internal_name": "TruffleWormDigger"
+  },
+  {
+    "id": 376,
+    "name": "沉睡渔夫",
+    "internal_name": "SleepingAngler"
+  },
+  {
+    "id": 377,
+    "name": "蚱蜢",
+    "internal_name": "Grasshopper"
+  },
+  {
+    "id": 378,
+    "name": "嗒嗒牙齿炸弹(电脑版、主机版、和移动版)",
+    "internal_name": "ChatteringTeethBomb"
+  },
+  {
+    "id": 379,
+    "name": "邪教徒弓箭手",
+    "internal_name": "CultistArcherBlue"
+  },
+  {
+    "id": 380,
+    "name": "邪教徒弓箭手",
+    "internal_name": "CultistArcherWhite"
+  },
+  {
+    "id": 381,
+    "name": "扰脑怪(电脑版、主机版、和移动版)",
+    "internal_name": "BrainScrambler"
+  },
+  {
+    "id": 382,
+    "name": "激光枪手(电脑版、主机版、和移动版)",
+    "internal_name": "RayGunner"
+  },
+  {
+    "id": 383,
+    "name": "火星军官(电脑版、主机版、和移动版)",
+    "internal_name": "MartianOfficer"
+  },
+  {
+    "id": 384,
+    "name": "泡泡护盾(电脑版、主机版、和移动版)",
+    "internal_name": "ForceBubble"
+  },
+  {
+    "id": 385,
+    "name": "灰咕噜(电脑版、主机版、和移动版)",
+    "internal_name": "GrayGrunt"
+  },
+  {
+    "id": 386,
+    "name": "火星工程师(电脑版、主机版、和移动版)",
+    "internal_name": "MartianEngineer"
+  },
+  {
+    "id": 387,
+    "name": "特斯拉炮塔(电脑版、主机版、和移动版)",
+    "internal_name": "MartianTurret"
+  },
+  {
+    "id": 388,
+    "name": "火星飞船(电脑版、主机版、和移动版)",
+    "internal_name": "MartianDrone"
+  },
+  {
+    "id": 389,
+    "name": "电击怪(电脑版、主机版、和移动版)",
+    "internal_name": "GigaZapper"
+  },
+  {
+    "id": 390,
+    "name": "鳞甲怪枪手(电脑版、主机版、和移动版)",
+    "internal_name": "ScutlixRider"
+  },
+  {
+    "id": 391,
+    "name": "鳞甲怪(电脑版、主机版、和移动版)",
+    "internal_name": "Scutlix"
+  },
+  {
+    "id": 392,
+    "name": "火星飞碟(电脑版、主机版、和移动版)",
+    "internal_name": "MartianSaucer"
+  },
+  {
+    "id": 393,
+    "name": "火星飞碟炮塔(电脑版、主机版、和移动版)",
+    "internal_name": "MartianSaucerTurret"
+  },
+  {
+    "id": 394,
+    "name": "火星飞碟炮(电脑版、主机版、和移动版)",
+    "internal_name": "MartianSaucerCannon"
+  },
+  {
+    "id": 395,
+    "name": "火星飞碟(电脑版、主机版、和移动版)",
+    "internal_name": "MartianSaucerCore"
+  },
+  {
+    "id": 396,
+    "name": "月亮领主(电脑版、主机版、和移动版)",
+    "internal_name": "MoonLordHead"
+  },
+  {
+    "id": 397,
+    "name": "月亮领主手(电脑版、主机版、和移动版)",
+    "internal_name": "MoonLordHand"
+  },
+  {
+    "id": 398,
+    "name": "月亮领主心脏(电脑版、主机版、和移动版)",
+    "internal_name": "MoonLordCore"
+  },
+  {
+    "id": 399,
+    "name": "火星探测器(电脑版、主机版、和移动版)",
+    "internal_name": "MartianProbe"
+  },
+  {
+    "id": 400,
+    "name": "克苏鲁真眼(电脑版、主机版、和移动版)",
+    "internal_name": "MoonLordFreeEye"
+  },
+  {
+    "id": 401,
+    "name": "月蛭凝块(电脑版、主机版、和移动版)",
+    "internal_name": "MoonLordLeechBlob"
+  },
+  {
+    "id": 402,
+    "name": "银河织妖(电脑版、主机版、和移动版)",
+    "internal_name": "StardustWormHead"
+  },
+  {
+    "id": 403,
+    "name": "银河织妖(电脑版、主机版、和移动版)",
+    "internal_name": "StardustWormBody"
+  },
+  {
+    "id": 404,
+    "name": "银河织妖(电脑版、主机版、和移动版)",
+    "internal_name": "StardustWormTail"
+  },
+  {
+    "id": 405,
+    "name": "星细胞(电脑版、主机版、和移动版)",
+    "internal_name": "StardustCellBig"
+  },
+  {
+    "id": 406,
+    "name": "迷你星细胞(电脑版、主机版、和移动版)",
+    "internal_name": "StardustCellSmall"
+  },
+  {
+    "id": 407,
+    "name": "流体入侵怪(电脑版、主机版、和移动版)",
+    "internal_name": "StardustJellyfishBig"
+  },
+  {
+    "id": 409,
+    "name": "闪耀炮手(电脑版、主机版、和移动版)",
+    "internal_name": "StardustSpiderBig"
+  },
+  {
+    "id": 410,
+    "name": "闪耀怪(电脑版、主机版、和移动版)",
+    "internal_name": "StardustSpiderSmall"
+  },
+  {
+    "id": 411,
+    "name": "观星怪(电脑版、主机版、和移动版)",
+    "internal_name": "StardustSoldier"
+  },
+  {
+    "id": 412,
+    "name": "千足蜈蚣(电脑版、主机版、和移动版)",
+    "internal_name": "SolarCrawltipedeHead"
+  },
+  {
+    "id": 413,
+    "name": "千足蜈蚣(电脑版、主机版、和移动版)",
+    "internal_name": "SolarCrawltipedeBody"
+  },
+  {
+    "id": 414,
+    "name": "千足蜈蚣(电脑版、主机版、和移动版)",
+    "internal_name": "SolarCrawltipedeTail"
+  },
+  {
+    "id": 415,
+    "name": "火龙怪(电脑版、主机版、和移动版)",
+    "internal_name": "SolarDrakomire"
+  },
+  {
+    "id": 416,
+    "name": "火龙怪骑士(电脑版、主机版、和移动版)",
+    "internal_name": "SolarDrakomireRider"
+  },
+  {
+    "id": 417,
+    "name": "火滚怪(电脑版、主机版、和移动版)",
+    "internal_name": "SolarSroller"
+  },
+  {
+    "id": 418,
+    "name": "流星火怪(电脑版、主机版、和移动版)",
+    "internal_name": "SolarCorite"
+  },
+  {
+    "id": 419,
+    "name": "火月怪(电脑版、主机版、和移动版)",
+    "internal_name": "SolarSolenian"
+  },
+  {
+    "id": 420,
+    "name": "星云浮怪(电脑版、主机版、和移动版)",
+    "internal_name": "NebulaBrain"
+  },
+  {
+    "id": 421,
+    "name": "吮脑怪(电脑版、主机版、和移动版)",
+    "internal_name": "NebulaHeadcrab"
+  },
+  {
+    "id": 422,
+    "name": "星旋柱(电脑版、主机版、和移动版)",
+    "internal_name": "LunarTowerVortex"
+  },
+  {
+    "id": 423,
+    "name": "进化兽(电脑版、主机版、和移动版)",
+    "internal_name": "NebulaBeast"
+  },
+  {
+    "id": 424,
+    "name": "预言怪(电脑版、主机版、和移动版)",
+    "internal_name": "NebulaSoldier"
+  },
+  {
+    "id": 425,
+    "name": "漩泥怪(电脑版、主机版、和移动版)",
+    "internal_name": "VortexRifleman"
+  },
+  {
+    "id": 426,
+    "name": "异星蜂王(电脑版、主机版、和移动版)",
+    "internal_name": "VortexHornetQueen"
+  },
+  {
+    "id": 427,
+    "name": "异星黄蜂(电脑版、主机版、和移动版)",
+    "internal_name": "VortexHornet"
+  },
+  {
+    "id": 428,
+    "name": "异星幼虫(电脑版、主机版、和移动版)",
+    "internal_name": "VortexLarva"
+  },
+  {
+    "id": 429,
+    "name": "星旋怪(电脑版、主机版、和移动版)",
+    "internal_name": "VortexSoldier"
+  },
+  {
+    "id": 430,
+    "name": "僵尸",
+    "internal_name": "ArmedZombie"
+  },
+  {
+    "id": 431,
+    "name": "冰冻僵尸",
+    "internal_name": "ArmedZombieEskimo"
+  },
+  {
+    "id": 432,
+    "name": "僵尸",
+    "internal_name": "ArmedZombiePincussion"
+  },
+  {
+    "id": 433,
+    "name": "僵尸",
+    "internal_name": "ArmedZombieSlimed"
+  },
+  {
+    "id": 434,
+    "name": "僵尸",
+    "internal_name": "ArmedZombieSwamp"
+  },
+  {
+    "id": 435,
+    "name": "僵尸",
+    "internal_name": "ArmedZombieTwiggy"
+  },
+  {
+    "id": 436,
+    "name": "僵尸",
+    "internal_name": "ArmedZombieCenx"
+  },
+  {
+    "id": 437,
+    "name": "神秘碑牌(电脑版、主机版、和移动版)",
+    "internal_name": "CultistTablet"
+  },
+  {
+    "id": 438,
+    "name": "拜月教忠教徒",
+    "internal_name": "CultistDevote"
+  },
+  {
+    "id": 439,
+    "name": "拜月教邪教徒(电脑版、主机版、和移动版)",
+    "internal_name": "CultistBoss"
+  },
+  {
+    "id": 440,
+    "name": "拜月教邪教徒(电脑版、主机版、和移动版)",
+    "internal_name": "CultistBossClone"
+  },
+  {
+    "id": 441,
+    "name": "税收官(电脑版、主机版、和移动版)",
+    "internal_name": "TaxCollector"
+  },
+  {
+    "id": 442,
+    "name": "金鸟(电脑版、主机版、和移动版)",
+    "internal_name": "GoldBird"
+  },
+  {
+    "id": 443,
+    "name": "金兔(电脑版、主机版、和移动版)",
+    "internal_name": "GoldBunny"
+  },
+  {
+    "id": 444,
+    "name": "金蝴蝶(电脑版、主机版、和移动版)",
+    "internal_name": "GoldButterfly"
+  },
+  {
+    "id": 445,
+    "name": "金蛙(电脑版、主机版、和移动版)",
+    "internal_name": "GoldFrog"
+  },
+  {
+    "id": 446,
+    "name": "金蚱蜢(电脑版、主机版、和移动版)",
+    "internal_name": "GoldGrasshopper"
+  },
+  {
+    "id": 447,
+    "name": "金老鼠(电脑版、主机版、和移动版)",
+    "internal_name": "GoldMouse"
+  },
+  {
+    "id": 448,
+    "name": "金蠕虫(电脑版、主机版、和移动版)",
+    "internal_name": "GoldWorm"
+  },
+  {
+    "id": 449,
+    "name": "骷髅",
+    "internal_name": "BoneThrowingSkeleton"
+  },
+  {
+    "id": 450,
+    "name": "骷髅",
+    "internal_name": "BoneThrowingSkeleton2"
+  },
+  {
+    "id": 451,
+    "name": "骷髅",
+    "internal_name": "BoneThrowingSkeleton3"
+  },
+  {
+    "id": 452,
+    "name": "骷髅",
+    "internal_name": "BoneThrowingSkeleton4"
+  },
+  {
+    "id": 453,
+    "name": "骷髅商人(电脑版、主机版、和移动版)",
+    "internal_name": "SkeletonMerchant"
+  },
+  {
+    "id": 454,
+    "name": "幻影龙(电脑版、主机版、和移动版)",
+    "internal_name": "CultistDragonHead"
+  },
+  {
+    "id": 455,
+    "name": "幻影龙(电脑版、主机版、和移动版)",
+    "internal_name": "CultistDragonBody1"
+  },
+  {
+    "id": 456,
+    "name": "幻影龙(电脑版、主机版、和移动版)",
+    "internal_name": "CultistDragonBody2"
+  },
+  {
+    "id": 457,
+    "name": "幻影龙(电脑版、主机版、和移动版)",
+    "internal_name": "CultistDragonBody3"
+  },
+  {
+    "id": 458,
+    "name": "幻影龙(电脑版、主机版、和移动版)",
+    "internal_name": "CultistDragonBody4"
+  },
+  {
+    "id": 459,
+    "name": "幻影龙(电脑版、主机版、和移动版)",
+    "internal_name": "CultistDragonTail"
+  },
+  {
+    "id": 460,
+    "name": "屠夫(电脑版、主机版、和移动版)",
+    "internal_name": "Butcher"
+  },
+  {
+    "id": 461,
+    "name": "水月怪(电脑版、主机版、和移动版)",
+    "internal_name": "CreatureFromTheDeep"
+  },
+  {
+    "id": 462,
+    "name": "弗里茨(电脑版、主机版、和移动版)",
+    "internal_name": "Fritz"
+  },
+  {
+    "id": 463,
+    "name": "钉头(电脑版、主机版、和移动版)",
+    "internal_name": "Nailhead"
+  },
+  {
+    "id": 464,
+    "name": "毒兔兔(电脑版、主机版、和移动版)",
+    "internal_name": "CrimsonBunny"
+  },
+  {
+    "id": 465,
+    "name": "毒金鱼(电脑版、主机版、和移动版)",
+    "internal_name": "CrimsonGoldfish"
+  },
+  {
+    "id": 466,
+    "name": "变态人(电脑版、主机版、和移动版)",
+    "internal_name": "Psycho"
+  },
+  {
+    "id": 467,
+    "name": "致命球(电脑版、主机版、和移动版)",
+    "internal_name": "DeadlySphere"
+  },
+  {
+    "id": 468,
+    "name": "苍蝇人博士(电脑版、主机版、和移动版)",
+    "internal_name": "DrManFly"
+  },
+  {
+    "id": 469,
+    "name": "攀爬魔(电脑版、主机版、和移动版)",
+    "internal_name": "ThePossessed"
+  },
+  {
+    "id": 470,
+    "name": "毒企鹅(电脑版、主机版、和移动版)",
+    "internal_name": "CrimsonPenguin"
+  },
+  {
+    "id": 471,
+    "name": "哥布林术士(电脑版、主机版、和移动版)",
+    "internal_name": "GoblinSummoner"
+  },
+  {
+    "id": 472,
+    "name": "暗影焰幻鬼(电脑版、主机版、和移动版)",
+    "internal_name": "ShadowFlameApparition"
+  },
+  {
+    "id": 473,
+    "name": "腐化宝箱怪(电脑版、主机版、和移动版)",
+    "internal_name": "BigMimicCorruption"
+  },
+  {
+    "id": 474,
+    "name": "猩红宝箱怪(电脑版、主机版、和移动版)",
+    "internal_name": "BigMimicCrimson"
+  },
+  {
+    "id": 475,
+    "name": "神圣宝箱怪(电脑版、主机版、和移动版)",
+    "internal_name": "BigMimicHallow"
+  },
+  {
+    "id": 476,
+    "name": "丛林宝箱怪(电脑版、主机版、和移动版)",
+    "internal_name": "BigMimicJungle"
+  },
+  {
+    "id": 477,
+    "name": "蛾怪(电脑版、主机版、和移动版)",
+    "internal_name": "Mothron"
+  },
+  {
+    "id": 478,
+    "name": "蛾怪蛋(电脑版、主机版、和移动版)",
+    "internal_name": "MothronEgg"
+  },
+  {
+    "id": 479,
+    "name": "蛾怪宝宝(电脑版、主机版、和移动版)",
+    "internal_name": "MothronSpawn"
+  },
+  {
+    "id": 480,
+    "name": "蛇发女妖(电脑版、主机版、和移动版)",
+    "internal_name": "Medusa"
+  },
+  {
+    "id": 481,
+    "name": "装甲步兵(电脑版、主机版、和移动版)",
+    "internal_name": "GreekSkeleton"
+  },
+  {
+    "id": 482,
+    "name": "花岗岩巨人(电脑版、主机版、和移动版)",
+    "internal_name": "GraniteGolem"
+  },
+  {
+    "id": 483,
+    "name": "花岗精(电脑版、主机版、和移动版)",
+    "internal_name": "GraniteFlyer"
+  },
+  {
+    "id": 484,
+    "name": "附魔夜行者(电脑版、主机版、和移动版)",
+    "internal_name": "EnchantedNightcrawler"
+  },
+  {
+    "id": 485,
+    "name": "蛆虫(电脑版、主机版、和移动版)",
+    "internal_name": "Grubby"
+  },
+  {
+    "id": 486,
+    "name": "鼻涕虫(电脑版、主机版、和移动版)",
+    "internal_name": "Sluggy"
+  },
+  {
+    "id": 487,
+    "name": "蚜虫(电脑版、主机版、和移动版)",
+    "internal_name": "Buggy"
+  },
+  {
+    "id": 488,
+    "name": "训练假人(电脑版、主机版、和移动版)",
+    "internal_name": "TargetDummy"
+  },
+  {
+    "id": 489,
+    "name": "血腥僵尸(电脑版、主机版、和移动版)",
+    "internal_name": "BloodZombie"
+  },
+  {
+    "id": 490,
+    "name": "滴滴怪(电脑版、主机版、和移动版)",
+    "internal_name": "Drippler"
+  },
+  {
+    "id": 491,
+    "name": "荷兰飞盗船(电脑版、主机版、和移动版)",
+    "internal_name": "PirateShip"
+  },
+  {
+    "id": 492,
+    "name": "荷兰大炮(电脑版、主机版、和移动版)",
+    "internal_name": "PirateShipCannon"
+  },
+  {
+    "id": 493,
+    "name": "星尘柱(电脑版、主机版、和移动版)",
+    "internal_name": "LunarTowerStardust"
+  },
+  {
+    "id": 494,
+    "name": "龙虾(电脑版、主机版、和移动版)",
+    "internal_name": "Crawdad"
+  },
+  {
+    "id": 495,
+    "name": "龙虾(电脑版、主机版、和移动版)",
+    "internal_name": "Crawdad2"
+  },
+  {
+    "id": 496,
+    "name": "巨型卷壳怪(电脑版、主机版、和移动版)",
+    "internal_name": "GiantShelly"
+  },
+  {
+    "id": 497,
+    "name": "巨型卷壳怪(电脑版、主机版、和移动版)",
+    "internal_name": "GiantShelly2"
+  },
+  {
+    "id": 498,
+    "name": "蝾螈(电脑版、主机版、和移动版)",
+    "internal_name": "Salamander"
+  },
+  {
+    "id": 499,
+    "name": "蝾螈(电脑版、主机版、和移动版)",
+    "internal_name": "Salamander2"
+  },
+  {
+    "id": 500,
+    "name": "蝾螈(电脑版、主机版、和移动版)",
+    "internal_name": "Salamander3"
+  },
+  {
+    "id": 501,
+    "name": "蝾螈(电脑版、主机版、和移动版)",
+    "internal_name": "Salamander4"
+  },
+  {
+    "id": 502,
+    "name": "蝾螈(电脑版、主机版、和移动版)",
+    "internal_name": "Salamander5"
+  },
+  {
+    "id": 503,
+    "name": "蝾螈(电脑版、主机版、和移动版)",
+    "internal_name": "Salamander6"
+  },
+  {
+    "id": 504,
+    "name": "蝾螈(电脑版、主机版、和移动版)",
+    "internal_name": "Salamander7"
+  },
+  {
+    "id": 505,
+    "name": "蝾螈(电脑版、主机版、和移动版)",
+    "internal_name": "Salamander8"
+  },
+  {
+    "id": 506,
+    "name": "蝾螈(电脑版、主机版、和移动版)",
+    "internal_name": "Salamander9"
+  },
+  {
+    "id": 507,
+    "name": "星云柱(电脑版、主机版、和移动版)",
+    "internal_name": "LunarTowerNebula"
+  },
+  {
+    "id": 508,
+    "name": "巨型蚁狮马(电脑版、主机版、和移动版)",
+    "internal_name": "GiantWalkingAntlion"
+  },
+  {
+    "id": 509,
+    "name": "巨型蚁狮蜂(电脑版、主机版、和移动版)",
+    "internal_name": "GiantFlyingAntlion"
+  },
+  {
+    "id": 510,
+    "name": "沙虫(电脑版、主机版、和移动版)",
+    "internal_name": "DuneSplicerHead"
+  },
+  {
+    "id": 511,
+    "name": "沙虫(电脑版、主机版、和移动版)",
+    "internal_name": "DuneSplicerBody"
+  },
+  {
+    "id": 512,
+    "name": "沙虫(电脑版、主机版、和移动版)",
+    "internal_name": "DuneSplicerTail"
+  },
+  {
+    "id": 513,
+    "name": "墓穴爬虫(电脑版、主机版、和移动版)",
+    "internal_name": "TombCrawlerHead"
+  },
+  {
+    "id": 514,
+    "name": "墓穴爬虫(电脑版、主机版、和移动版)",
+    "internal_name": "TombCrawlerBody"
+  },
+  {
+    "id": 515,
+    "name": "墓穴爬虫(电脑版、主机版、和移动版)",
+    "internal_name": "TombCrawlerTail"
+  },
+  {
+    "id": 516,
+    "name": "耀斑(电脑版、主机版、和移动版)",
+    "internal_name": "SolarFlare"
+  },
+  {
+    "id": 517,
+    "name": "日耀柱(电脑版、主机版、和移动版)",
+    "internal_name": "LunarTowerSolar"
+  },
+  {
+    "id": 518,
+    "name": "火龙战士(电脑版、主机版、和移动版)",
+    "internal_name": "SolarSpearman"
+  },
+  {
+    "id": 519,
+    "name": "日耀碎片(电脑版、主机版、和移动版)",
+    "internal_name": "SolarGoop"
+  },
+  {
+    "id": 520,
+    "name": "火星走妖(电脑版、主机版、和移动版)",
+    "internal_name": "MartianWalker"
+  },
+  {
+    "id": 521,
+    "name": "远古幻影妖(电脑版、主机版、和移动版)",
+    "internal_name": "AncientCultistSquidhead"
+  },
+  {
+    "id": 522,
+    "name": "远古光明妖(电脑版、主机版、和移动版)",
+    "internal_name": "AncientLight"
+  },
+  {
+    "id": 523,
+    "name": "远古噩运妖(电脑版、主机版、和移动版)",
+    "internal_name": "AncientDoom"
+  },
+  {
+    "id": 524,
+    "name": "食尸鬼(电脑版、主机版、和移动版)",
+    "internal_name": "DesertGhoul"
+  },
+  {
+    "id": 525,
+    "name": "腐恶食尸鬼(电脑版、主机版、和移动版)",
+    "internal_name": "DesertGhoulCorruption"
+  },
+  {
+    "id": 526,
+    "name": "红染食尸鬼(电脑版、主机版、和移动版)",
+    "internal_name": "DesertGhoulCrimson"
+  },
+  {
+    "id": 527,
+    "name": "神梦食尸鬼(电脑版、主机版、和移动版)",
+    "internal_name": "DesertGhoulHallow"
+  },
+  {
+    "id": 528,
+    "name": "拉弥亚(电脑版、主机版、和移动版)",
+    "internal_name": "DesertLamiaLight"
+  },
+  {
+    "id": 529,
+    "name": "拉弥亚(电脑版、主机版、和移动版)",
+    "internal_name": "DesertLamiaDark"
+  },
+  {
+    "id": 530,
+    "name": "沙贼(电脑版、主机版、和移动版)",
+    "internal_name": "DesertScorpionWalk"
+  },
+  {
+    "id": 531,
+    "name": "沙贼(电脑版、主机版、和移动版)",
+    "internal_name": "DesertScorpionWall"
+  },
+  {
+    "id": 532,
+    "name": "蛇蜥怪(电脑版、主机版、和移动版)",
+    "internal_name": "DesertBeast"
+  },
+  {
+    "id": 533,
+    "name": "沙漠幽魂(电脑版、主机版、和移动版)",
+    "internal_name": "DesertDjinn"
+  },
+  {
+    "id": 534,
+    "name": "痛苦亡魂(电脑版、主机版、和移动版)",
+    "internal_name": "DemonTaxCollector"
+  },
+  {
+    "id": 535,
+    "name": "尖刺史莱姆(电脑版、主机版、和移动版)",
+    "internal_name": "SlimeSpiked"
+  },
+  {
+    "id": 536,
+    "name": "僵尸新娘(电脑版、主机版、和移动版)",
+    "internal_name": "TheBride"
+  },
+  {
+    "id": 537,
+    "name": "沙史莱姆(电脑版、主机版、和移动版)",
+    "internal_name": "SandSlime"
+  },
+  {
+    "id": 538,
+    "name": "红松鼠(电脑版、主机版、和移动版)",
+    "internal_name": "SquirrelRed"
+  },
+  {
+    "id": 539,
+    "name": "金松鼠(电脑版、主机版、和移动版)",
+    "internal_name": "SquirrelGold"
+  },
+  {
+    "id": 540,
+    "name": "兔兔",
+    "internal_name": "PartyBunny"
+  },
+  {
+    "id": 541,
+    "name": "沙尘精(电脑版、主机版、和移动版)",
+    "internal_name": "SandElemental"
+  },
+  {
+    "id": 542,
+    "name": "沙鲨(电脑版、主机版、和移动版)",
+    "internal_name": "SandShark"
+  },
+  {
+    "id": 543,
+    "name": "噬骨沙鲨(电脑版、主机版、和移动版)",
+    "internal_name": "SandsharkCorrupt"
+  },
+  {
+    "id": 544,
+    "name": "戮血沙鲨(电脑版、主机版、和移动版)",
+    "internal_name": "SandsharkCrimson"
+  },
+  {
+    "id": 545,
+    "name": "水晶沙鲨(电脑版、主机版、和移动版)",
+    "internal_name": "SandsharkHallow"
+  },
+  {
+    "id": 546,
+    "name": "愤怒翻滚怪(电脑版、主机版、和移动版)",
+    "internal_name": "Tumbleweed"
+  },
+  {
+    "id": 548,
+    "name": "永恒水晶(电脑版、主机版、和移动版)",
+    "internal_name": "DD2EterniaCrystal"
+  },
+  {
+    "id": 549,
+    "name": "神秘传送门(电脑版、主机版、和移动版)",
+    "internal_name": "DD2LanePortal"
+  },
+  {
+    "id": 550,
+    "name": "酒馆老板(电脑版、主机版、和移动版)",
+    "internal_name": "DD2Bartender"
+  },
+  {
+    "id": 551,
+    "name": "双足翼龙(电脑版、主机版、和移动版)",
+    "internal_name": "DD2Betsy"
+  },
+  {
+    "id": 552,
+    "name": "埃特尼亚哥布林(电脑版、主机版、和移动版)",
+    "internal_name": "DD2GoblinT1"
+  },
+  {
+    "id": 553,
+    "name": "埃特尼亚哥布林(电脑版、主机版、和移动版)",
+    "internal_name": "DD2GoblinT2"
+  },
+  {
+    "id": 554,
+    "name": "埃特尼亚哥布林(电脑版、主机版、和移动版)",
+    "internal_name": "DD2GoblinT3"
+  },
+  {
+    "id": 555,
+    "name": "埃特尼亚哥布林投弹手(电脑版、主机版、和移动版)",
+    "internal_name": "DD2GoblinBomberT1"
+  },
+  {
+    "id": 556,
+    "name": "埃特尼亚哥布林投弹手(电脑版、主机版、和移动版)",
+    "internal_name": "DD2GoblinBomberT2"
+  },
+  {
+    "id": 557,
+    "name": "埃特尼亚哥布林投弹手(电脑版、主机版、和移动版)",
+    "internal_name": "DD2GoblinBomberT3"
+  },
+  {
+    "id": 558,
+    "name": "埃特尼亚飞龙(电脑版、主机版、和移动版)",
+    "internal_name": "DD2WyvernT1"
+  },
+  {
+    "id": 559,
+    "name": "埃特尼亚飞龙(电脑版、主机版、和移动版)",
+    "internal_name": "DD2WyvernT2"
+  },
+  {
+    "id": 560,
+    "name": "埃特尼亚飞龙(电脑版、主机版、和移动版)",
+    "internal_name": "DD2WyvernT3"
+  },
+  {
+    "id": 561,
+    "name": "埃特尼亚标枪投掷怪(电脑版、主机版、和移动版)",
+    "internal_name": "DD2JavelinstT1"
+  },
+  {
+    "id": 562,
+    "name": "埃特尼亚标枪投掷怪(电脑版、主机版、和移动版)",
+    "internal_name": "DD2JavelinstT2"
+  },
+  {
+    "id": 563,
+    "name": "埃特尼亚标枪投掷怪(电脑版、主机版、和移动版)",
+    "internal_name": "DD2JavelinstT3"
+  },
+  {
+    "id": 564,
+    "name": "黑暗魔法师(电脑版、主机版、和移动版)",
+    "internal_name": "DD2DarkMageT1"
+  },
+  {
+    "id": 565,
+    "name": "黑暗魔法师(电脑版、主机版、和移动版)",
+    "internal_name": "DD2DarkMageT3"
+  },
+  {
+    "id": 566,
+    "name": "撒旦骷髅(电脑版、主机版、和移动版)",
+    "internal_name": "DD2SkeletonT1"
+  },
+  {
+    "id": 567,
+    "name": "撒旦骷髅(电脑版、主机版、和移动版)",
+    "internal_name": "DD2SkeletonT3"
+  },
+  {
+    "id": 568,
+    "name": "枯萎兽(电脑版、主机版、和移动版)",
+    "internal_name": "DD2WitherBeastT2"
+  },
+  {
+    "id": 569,
+    "name": "枯萎兽(电脑版、主机版、和移动版)",
+    "internal_name": "DD2WitherBeastT3"
+  },
+  {
+    "id": 570,
+    "name": "德拉克龙(电脑版、主机版、和移动版)",
+    "internal_name": "DD2DrakinT2"
+  },
+  {
+    "id": 571,
+    "name": "德拉克龙(电脑版、主机版、和移动版)",
+    "internal_name": "DD2DrakinT3"
+  },
+  {
+    "id": 572,
+    "name": "小妖魔(电脑版、主机版、和移动版)",
+    "internal_name": "DD2KoboldWalkerT2"
+  },
+  {
+    "id": 573,
+    "name": "小妖魔(电脑版、主机版、和移动版)",
+    "internal_name": "DD2KoboldWalkerT3"
+  },
+  {
+    "id": 574,
+    "name": "小妖魔滑翔怪(电脑版、主机版、和移动版)",
+    "internal_name": "DD2KoboldFlyerT2"
+  },
+  {
+    "id": 575,
+    "name": "小妖魔滑翔怪(电脑版、主机版、和移动版)",
+    "internal_name": "DD2KoboldFlyerT3"
+  },
+  {
+    "id": 576,
+    "name": "食人魔(电脑版、主机版、和移动版)",
+    "internal_name": "DD2OgreT2"
+  },
+  {
+    "id": 577,
+    "name": "食人魔(电脑版、主机版、和移动版)",
+    "internal_name": "DD2OgreT3"
+  },
+  {
+    "id": 578,
+    "name": "埃特尼亚荧光虫(电脑版、主机版、和移动版)",
+    "internal_name": "DD2LightningBugT3"
+  },
+  {
+    "id": 579,
+    "name": "昏迷男子(电脑版、主机版、和移动版)",
+    "internal_name": "BartenderUnconscious"
+  },
+  {
+    "id": 580,
+    "name": "蚁狮马(电脑版、主机版、和移动版)",
+    "internal_name": "WalkingAntlion"
+  },
+  {
+    "id": 581,
+    "name": "蚁狮蜂(电脑版、主机版、和移动版)",
+    "internal_name": "FlyingAntlion"
+  },
+  {
+    "id": 582,
+    "name": "蚁狮幼虫(电脑版、主机版、和移动版)",
+    "internal_name": "LarvaeAntlion"
+  },
+  {
+    "id": 583,
+    "name": "粉仙灵(电脑版、主机版、和移动版)",
+    "internal_name": "FairyCritterPink"
+  },
+  {
+    "id": 584,
+    "name": "绿仙灵(电脑版、主机版、和移动版)",
+    "internal_name": "FairyCritterGreen"
+  },
+  {
+    "id": 585,
+    "name": "蓝仙灵(电脑版、主机版、和移动版)",
+    "internal_name": "FairyCritterBlue"
+  },
+  {
+    "id": 586,
+    "name": "僵尸人鱼(电脑版、主机版、和移动版)",
+    "internal_name": "ZombieMerman"
+  },
+  {
+    "id": 587,
+    "name": "游荡眼球怪鱼(电脑版、主机版、和移动版)",
+    "internal_name": "EyeballFlyingFish"
+  },
+  {
+    "id": 588,
+    "name": "高尔夫球手(电脑版、主机版、和移动版)",
+    "internal_name": "Golfer"
+  },
+  {
+    "id": 589,
+    "name": "高尔夫球手(电脑版、主机版、和移动版)",
+    "internal_name": "GolferRescue"
+  },
+  {
+    "id": 590,
+    "name": "僵尸",
+    "internal_name": "TorchZombie"
+  },
+  {
+    "id": 591,
+    "name": "僵尸",
+    "internal_name": "ArmedTorchZombie"
+  },
+  {
+    "id": 592,
+    "name": "金金鱼(电脑版、主机版、和移动版)",
+    "internal_name": "GoldGoldfish"
+  },
+  {
+    "id": 593,
+    "name": "金金鱼(电脑版、主机版、和移动版)",
+    "internal_name": "GoldGoldfishWalker"
+  },
+  {
+    "id": 594,
+    "name": "大风气球怪(电脑版、主机版、和移动版)",
+    "internal_name": "WindyBalloon"
+  },
+  {
+    "id": 595,
+    "name": "黑蜻蜓(电脑版、主机版、和移动版)",
+    "internal_name": "BlackDragonfly"
+  },
+  {
+    "id": 596,
+    "name": "蓝蜻蜓(电脑版、主机版、和移动版)",
+    "internal_name": "BlueDragonfly"
+  },
+  {
+    "id": 597,
+    "name": "绿蜻蜓(电脑版、主机版、和移动版)",
+    "internal_name": "GreenDragonfly"
+  },
+  {
+    "id": 598,
+    "name": "橙蜻蜓(电脑版、主机版、和移动版)",
+    "internal_name": "OrangeDragonfly"
+  },
+  {
+    "id": 599,
+    "name": "红蜻蜓(电脑版、主机版、和移动版)",
+    "internal_name": "RedDragonfly"
+  },
+  {
+    "id": 600,
+    "name": "黄蜻蜓(电脑版、主机版、和移动版)",
+    "internal_name": "YellowDragonfly"
+  },
+  {
+    "id": 601,
+    "name": "金蜻蜓(电脑版、主机版、和移动版)",
+    "internal_name": "GoldDragonfly"
+  },
+  {
+    "id": 602,
+    "name": "海鸥(电脑版、主机版、和移动版)",
+    "internal_name": "Seagull"
+  },
+  {
+    "id": 603,
+    "name": "海鸥(电脑版、主机版、和移动版)",
+    "internal_name": "Seagull2"
+  },
+  {
+    "id": 604,
+    "name": "瓢虫(电脑版、主机版、和移动版)",
+    "internal_name": "LadyBug"
+  },
+  {
+    "id": 605,
+    "name": "金瓢虫(电脑版、主机版、和移动版)",
+    "internal_name": "GoldLadyBug"
+  },
+  {
+    "id": 606,
+    "name": "蝇蛆(电脑版、主机版、和移动版)",
+    "internal_name": "Maggot"
+  },
+  {
+    "id": 607,
+    "name": "鳉鱼(电脑版、主机版、和移动版)",
+    "internal_name": "Pupfish"
+  },
+  {
+    "id": 608,
+    "name": "䴙䴘(电脑版、主机版、和移动版)",
+    "internal_name": "Grebe"
+  },
+  {
+    "id": 609,
+    "name": "䴙䴘(电脑版、主机版、和移动版)",
+    "internal_name": "Grebe2"
+  },
+  {
+    "id": 610,
+    "name": "大鼠(电脑版、主机版、和移动版)",
+    "internal_name": "Rat"
+  },
+  {
+    "id": 611,
+    "name": "猫头鹰(电脑版、主机版、和移动版)",
+    "internal_name": "Owl"
+  },
+  {
+    "id": 612,
+    "name": "水黾(电脑版、主机版、和移动版)",
+    "internal_name": "WaterStrider"
+  },
+  {
+    "id": 613,
+    "name": "金水黾(电脑版、主机版、和移动版)",
+    "internal_name": "GoldWaterStrider"
+  },
+  {
+    "id": 614,
+    "name": "爆炸兔",
+    "internal_name": "ExplosiveBunny"
+  },
+  {
+    "id": 615,
+    "name": "海豚(电脑版、主机版、和移动版)",
+    "internal_name": "Dolphin"
+  },
+  {
+    "id": 616,
+    "name": "龟(电脑版、主机版、和移动版)",
+    "internal_name": "Turtle"
+  },
+  {
+    "id": 617,
+    "name": "丛林龟(电脑版、主机版、和移动版)",
+    "internal_name": "TurtleJungle"
+  },
+  {
+    "id": 618,
+    "name": "恐惧鹦鹉螺(电脑版、主机版、和移动版)",
+    "internal_name": "BloodNautilus"
+  },
+  {
+    "id": 619,
+    "name": "血乌贼(电脑版、主机版、和移动版)",
+    "internal_name": "BloodSquid"
+  },
+  {
+    "id": 620,
+    "name": "血浆哥布林鲨鱼(电脑版、主机版、和移动版)",
+    "internal_name": "GoblinShark"
+  },
+  {
+    "id": 621,
+    "name": "血鳗鱼(电脑版、主机版、和移动版)",
+    "internal_name": "BloodEelHead"
+  },
+  {
+    "id": 622,
+    "name": "血鳗鱼(电脑版、主机版、和移动版)",
+    "internal_name": "BloodEelBody"
+  },
+  {
+    "id": 623,
+    "name": "血鳗鱼(电脑版、主机版、和移动版)",
+    "internal_name": "BloodEelTail"
+  },
+  {
+    "id": 624,
+    "name": "侏儒(电脑版、主机版、和移动版)",
+    "internal_name": "Gnome"
+  },
+  {
+    "id": 625,
+    "name": "海龟(电脑版、主机版、和移动版)",
+    "internal_name": "SeaTurtle"
+  },
+  {
+    "id": 626,
+    "name": "海马(电脑版、主机版、和移动版)",
+    "internal_name": "Seahorse"
+  },
+  {
+    "id": 627,
+    "name": "金海马(电脑版、主机版、和移动版)",
+    "internal_name": "GoldSeahorse"
+  },
+  {
+    "id": 628,
+    "name": "愤怒蒲公英(电脑版、主机版、和移动版)",
+    "internal_name": "Dandelion"
+  },
+  {
+    "id": 629,
+    "name": "冰雪宝箱怪",
+    "internal_name": "IceMimic"
+  },
+  {
+    "id": 630,
+    "name": "血木乃伊(电脑版、主机版、和移动版)",
+    "internal_name": "BloodMummy"
+  },
+  {
+    "id": 631,
+    "name": "岩石巨人(电脑版、主机版、和移动版)",
+    "internal_name": "RockGolem"
+  },
+  {
+    "id": 632,
+    "name": "蝇蛆僵尸(电脑版、主机版、和移动版)",
+    "internal_name": "MaggotZombie"
+  },
+  {
+    "id": 633,
+    "name": "动物学家(电脑版、主机版、和移动版)",
+    "internal_name": "BestiaryGirl"
+  },
+  {
+    "id": 634,
+    "name": "孢子蝙蝠(电脑版、主机版、和移动版)",
+    "internal_name": "SporeBat"
+  },
+  {
+    "id": 635,
+    "name": "孢子骷髅(电脑版、主机版、和移动版)",
+    "internal_name": "SporeSkeleton"
+  },
+  {
+    "id": 636,
+    "name": "光之女皇(电脑版、主机版、和移动版)",
+    "internal_name": "HallowBoss"
+  },
+  {
+    "id": 637,
+    "name": "城镇猫咪(电脑版、主机版、和移动版)",
+    "internal_name": "TownCat"
+  },
+  {
+    "id": 638,
+    "name": "城镇狗狗(电脑版、主机版、和移动版)",
+    "internal_name": "TownDog"
+  },
+  {
+    "id": 639,
+    "name": "紫晶松鼠(电脑版、主机版、和移动版)",
+    "internal_name": "GemSquirrelAmethyst"
+  },
+  {
+    "id": 640,
+    "name": "黄玉松鼠(电脑版、主机版、和移动版)",
+    "internal_name": "GemSquirrelTopaz"
+  },
+  {
+    "id": 641,
+    "name": "蓝玉松鼠(电脑版、主机版、和移动版)",
+    "internal_name": "GemSquirrelSapphire"
+  },
+  {
+    "id": 642,
+    "name": "翡翠松鼠(电脑版、主机版、和移动版)",
+    "internal_name": "GemSquirrelEmerald"
+  },
+  {
+    "id": 643,
+    "name": "红玉松鼠(电脑版、主机版、和移动版)",
+    "internal_name": "GemSquirrelRuby"
+  },
+  {
+    "id": 644,
+    "name": "钻石松鼠(电脑版、主机版、和移动版)",
+    "internal_name": "GemSquirrelDiamond"
+  },
+  {
+    "id": 645,
+    "name": "琥珀松鼠(电脑版、主机版、和移动版)",
+    "internal_name": "GemSquirrelAmber"
+  },
+  {
+    "id": 646,
+    "name": "紫晶兔兔(电脑版、主机版、和移动版)",
+    "internal_name": "GemBunnyAmethyst"
+  },
+  {
+    "id": 647,
+    "name": "黄玉兔兔(电脑版、主机版、和移动版)",
+    "internal_name": "GemBunnyTopaz"
+  },
+  {
+    "id": 648,
+    "name": "蓝玉兔兔(电脑版、主机版、和移动版)",
+    "internal_name": "GemBunnySapphire"
+  },
+  {
+    "id": 649,
+    "name": "翡翠兔兔(电脑版、主机版、和移动版)",
+    "internal_name": "GemBunnyEmerald"
+  },
+  {
+    "id": 650,
+    "name": "红玉兔兔(电脑版、主机版、和移动版)",
+    "internal_name": "GemBunnyRuby"
+  },
+  {
+    "id": 651,
+    "name": "钻石兔兔(电脑版、主机版、和移动版)",
+    "internal_name": "GemBunnyDiamond"
+  },
+  {
+    "id": 652,
+    "name": "琥珀兔兔(电脑版、主机版、和移动版)",
+    "internal_name": "GemBunnyAmber"
+  },
+  {
+    "id": 653,
+    "name": "地狱蝴蝶(电脑版、主机版、和移动版)",
+    "internal_name": "HellButterfly"
+  },
+  {
+    "id": 654,
+    "name": "熔岩萤火虫(电脑版、主机版、和移动版)",
+    "internal_name": "Lavafly"
+  },
+  {
+    "id": 655,
+    "name": "岩浆蜗牛(电脑版、主机版、和移动版)",
+    "internal_name": "MagmaSnail"
+  },
+  {
+    "id": 656,
+    "name": "城镇兔兔(电脑版、主机版、和移动版)",
+    "internal_name": "TownBunny"
+  },
+  {
+    "id": 657,
+    "name": "史莱姆皇后(电脑版、主机版、和移动版)",
+    "internal_name": "QueenSlimeBoss"
+  },
+  {
+    "id": 658,
+    "name": "水晶史莱姆(电脑版、主机版、和移动版)",
+    "internal_name": "QueenSlimeMinionBlue"
+  },
+  {
+    "id": 659,
+    "name": "弹力史莱姆(电脑版、主机版、和移动版)",
+    "internal_name": "QueenSlimeMinionPink"
+  },
+  {
+    "id": 660,
+    "name": "飞翔史莱姆(电脑版、主机版、和移动版)",
+    "internal_name": "QueenSlimeMinionPurple"
+  },
+  {
+    "id": 661,
+    "name": "七彩草蛉(电脑版、主机版、和移动版)",
+    "internal_name": "EmpressButterfly"
+  },
+  {
+    "id": 662,
+    "name": "海盗诅咒(电脑版、主机版、和移动版)",
+    "internal_name": "PirateGhost"
+  },
+  {
+    "id": 663,
+    "name": "公主(电脑版、主机版、和移动版)",
+    "internal_name": "Princess"
+  },
+  {
+    "id": 664,
+    "name": "火把神(电脑版、主机版、和移动版)",
+    "internal_name": "TorchGod"
+  },
+  {
+    "id": 665,
+    "name": "混沌球",
+    "internal_name": "ChaosBallTim"
+  },
+  {
+    "id": 666,
+    "name": "魔唾液",
+    "internal_name": "VileSpitEaterOfWorlds"
+  },
+  {
+    "id": 667,
+    "name": "金史莱姆(电脑版、主机版、和移动版)",
+    "internal_name": "GoldenSlime"
+  },
+  {
+    "id": 668,
+    "name": "独眼巨鹿(电脑版、主机版、和移动版)",
+    "internal_name": "Deerclops"
+  },
+  {
+    "id": 669,
+    "name": "臭虫(电脑版、主机版、和移动版)",
+    "internal_name": "Stinkbug"
+  },
+  {
+    "id": 670,
+    "name": "书呆子史莱姆(电脑版、主机版、和移动版)",
+    "internal_name": "TownSlimeBlue"
+  },
+  {
+    "id": 671,
+    "name": "绯红金刚鹦鹉(电脑版、主机版、和移动版)",
+    "internal_name": "ScarletMacaw"
+  },
+  {
+    "id": 672,
+    "name": "蓝金刚鹦鹉(电脑版、主机版、和移动版)",
+    "internal_name": "BlueMacaw"
+  },
+  {
+    "id": 673,
+    "name": "巨嘴鸟(电脑版、主机版、和移动版)",
+    "internal_name": "Toucan"
+  },
+  {
+    "id": 674,
+    "name": "黄玄凤鹦鹉(电脑版、主机版、和移动版)",
+    "internal_name": "YellowCockatiel"
+  },
+  {
+    "id": 675,
+    "name": "灰玄凤鹦鹉(电脑版、主机版、和移动版)",
+    "internal_name": "GrayCockatiel"
+  },
+  {
+    "id": 676,
+    "name": "微光史莱姆(电脑版、主机版、和移动版)",
+    "internal_name": "ShimmerSlime"
+  },
+  {
+    "id": 677,
+    "name": "飞灵(电脑版、主机版、和移动版)",
+    "internal_name": "Shimmerfly"
+  },
+  {
+    "id": 678,
+    "name": "酷酷史莱姆(电脑版、主机版、和移动版)",
+    "internal_name": "TownSlimeGreen"
+  },
+  {
+    "id": 679,
+    "name": "长者史莱姆(电脑版、主机版、和移动版)",
+    "internal_name": "TownSlimeOld"
+  },
+  {
+    "id": 680,
+    "name": "笨拙史莱姆(电脑版、主机版、和移动版)",
+    "internal_name": "TownSlimePurple"
+  },
+  {
+    "id": 681,
+    "name": "天后史莱姆(电脑版、主机版、和移动版)",
+    "internal_name": "TownSlimeRainbow"
+  },
+  {
+    "id": 682,
+    "name": "暴躁史莱姆(电脑版、主机版、和移动版)",
+    "internal_name": "TownSlimeRed"
+  },
+  {
+    "id": 683,
+    "name": "神秘史莱姆(电脑版、主机版、和移动版)",
+    "internal_name": "TownSlimeYellow"
+  },
+  {
+    "id": 684,
+    "name": "侍卫史莱姆(电脑版、主机版、和移动版)",
+    "internal_name": "TownSlimeCopper"
+  },
+  {
+    "id": 685,
+    "name": "老旧摇摇箱(电脑版、主机版、和移动版)",
+    "internal_name": "BoundTownSlimeOld"
+  },
+  {
+    "id": 686,
+    "name": "笨拙气球史莱姆(电脑版、主机版、和移动版)",
+    "internal_name": "BoundTownSlimePurple"
+  },
+  {
+    "id": 687,
+    "name": "神秘青蛙(电脑版、主机版、和移动版)",
+    "internal_name": "BoundTownSlimeYellow"
+  }
+]

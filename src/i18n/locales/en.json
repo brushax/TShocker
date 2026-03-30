@@ -1,0 +1,458 @@
+{
+  "sidebar": {
+    "groups": {
+      "overview": "Overview",
+      "management": "Management",
+      "server": "Server"
+    },
+    "items": {
+      "dashboard": "Dashboard",
+      "players": "Players",
+      "users": "Users",
+      "groups": "Groups",
+      "bans": "Bans",
+      "events": "World Events",
+      "commands": "Commands",
+      "system": "System"
+    }
+  },
+  "nav": {
+    "account": "Account",
+    "logout": "Logout",
+    "unassigned": "Unassigned",
+    "language": "Language",
+    "zh": "简体中文",
+    "en": "English",
+    "dev_mode": "Developer Mode"
+  },
+  "common": {
+    "login": "Login",
+    "logout": "Logout",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "search": "Search",
+    "login_required": "Please login to view server status",
+    "refresh": "Refresh",
+    "save": "Save World",
+    "loading": "Loading",
+    "success": "Success",
+    "error": "Error",
+    "unknown": "Unknown",
+    "unknown_error": "Unknown Error",
+    "get_status_failed": "Failed to get server status",
+    "units": {
+      "day": "d",
+      "hour": "h",
+      "minute": "m",
+      "second": "s"
+    },
+    "notices": {
+      "error": "Error",
+      "success": "Success",
+      "info": "Info"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "description": "View server status and perform control actions",
+    "status": {
+      "refreshed": "Status refreshed",
+      "load_failed": "Failed to load data",
+      "broadcast_success": "Broadcast sent",
+      "broadcast_failed": "Failed to send broadcast",
+      "save_success": "Save command sent",
+      "save_failed": "Failed to save world"
+    },
+    "stats": {
+      "world_name": "World Name",
+      "online_players": "Online Players",
+      "uptime": "Uptime",
+      "port_addr": "Port / Addr",
+      "calculating": "Calculating...",
+      "connections": "Connections",
+      "size_unknown": "Size Unknown",
+      "uptime_subtext": "Server uptime duration",
+      "port_subtext": "Server network port"
+    },
+    "world": {
+      "title": "World Info",
+      "size": "World Size",
+      "invasion_size": "Invasion Size",
+      "max_players": "Max Players",
+      "time": "Time",
+      "day": "Day",
+      "night": "Night",
+      "game_tick": "Game Tick",
+      "blood_moon": "Blood Moon",
+      "on": "ON",
+      "off": "OFF"
+    },
+    "motd": {
+      "title": "MOTD",
+      "empty": "No MOTD content"
+    },
+    "broadcast": {
+      "title": "System Broadcast",
+      "placeholder": "Type broadcast message (supports color codes)...",
+      "send": "Send",
+      "templates": {
+        "maintenance": "Maintenance",
+        "welcome": "Welcome",
+        "event": "Event"
+      }
+    },
+    "rules": {
+      "title": "Server Rules",
+      "empty": "No rules set"
+    }
+  },
+  "titlebar": {
+    "toggle_theme": "Toggle Theme",
+    "minimize": "Minimize",
+    "restore": "Restore",
+    "maximize": "Maximize",
+    "close": "Close"
+  },
+  "login": {
+    "title": "TShocker",
+    "subtitle": "TShock Server Companion",
+    "serverUrl": "Server URL",
+    "username": "Username",
+    "password": "Password",
+    "show_password": "Show password",
+    "hide_password": "Hide password",
+    "auto_login": "Auto-login",
+    "auto_login_hint": "Try the last saved account automatically on startup",
+    "submit": "Connect & Login",
+    "loading": "Logging in...",
+    "placeholder": {
+      "server": "127.0.0.1:7878",
+      "username": "Enter username",
+      "password": "Enter password"
+    },
+    "alert_title": "Login Failed",
+    "errors": {
+      "token_validation_failed": "Token validation failed, please check credentials",
+      "login_failed": "Login failed, please check username and password",
+      "connection_failed": "Connection failed, please check server address and network",
+      "invalid_credentials": "Invalid username or password, or insufficient permissions",
+      "insufficient_permissions": "Account does not have REST API access",
+      "server_unreachable": "Server unreachable, please check address or REST API status"
+    }
+  },
+  "players": {
+    "title": "Players",
+    "description": "View and manage online players",
+    "refresh": "Refresh",
+    "list_title": "Player List",
+    "list_count": "Found {{count}} active players",
+    "fetch_failed": "Failed to fetch player list",
+    "fetch_detail_failed": "Failed to fetch player detail",
+    "action_success": "{{type}} successfully",
+    "mute_success": "Player muted",
+    "unmute_success": "Player unmuted",
+    "op_failed": "Operation failed",
+    "kick": "Kick",
+    "ban": "Ban",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "godmode": "God Mode",
+    "godmode_success": "God mode state toggled",
+    "kill": "Kill Character",
+    "kill_success": "Character successfully killed",
+    "detail": "Detail",
+    "online": "Online",
+    "offline": "Offline",
+    "empty": "No players",
+    "empty_desc": "No active players on the server",
+    "table": {
+      "nickname": "Player Name",
+      "username": "Username",
+      "ip": "IP Address",
+      "group": "Group",
+      "status": "Status",
+      "active": "Activity",
+      "actions": "Actions"
+    },
+    "summon": {
+      "title": "Summon NPC",
+      "description": "Summoning creature near {{nickname}}",
+      "select_npc": "Select NPC",
+      "search_npc": "Search by name or ID...",
+      "no_npc_found": "No matching NPC found",
+      "count_label": "Summon Count",
+      "refresh_position": "Refresh Position",
+      "confirm": "Summon {{npc}}",
+      "success": "Summon command sent successfully"
+    },
+    "give": {
+      "title": "Give Items",
+      "description": "Giving items to {{nickname}}",
+      "select_item": "Select Item",
+      "search_item": "Search by name or ID...",
+      "no_item_found": "No matching item found",
+      "count_label": "Item Quantity",
+      "confirm": "Give {{item}}",
+      "success": "Items given successfully"
+    },
+    "detail_sheet": {
+      "title": "Player Details",
+      "reg_status": "Registration",
+      "unregistered": "Unregistered",
+      "position": "Coordinates",
+      "hp": "Current HP",
+      "unknown": "Unknown",
+      "status": "Status",
+      "muted": "Muted",
+      "normal": "Normal",
+      "close": "Close",
+      "connection_info": "Connection Info",
+      "group_info": "Group Info",
+      "inventory": "Inventory Snapshot",
+      "armor": "Armor & Vanity",
+      "buffs": "Current Buffs",
+      "uuid": "UUID",
+      "ping": "Ping",
+      "last_seen": "Last Seen",
+      "join_date": "Join Date"
+    },
+    "action_sheet": {
+      "kick_title": "Kick Player",
+      "ban_title": "Ban Player",
+      "description": "You are performing a {{type}} action on {{nickname}}",
+      "reason_label": "Reason",
+      "reason_hint": "Enter reason for action...",
+      "confirm_action": "Confirm {{type}}",
+      "cancel": "Cancel"
+    },
+    "auto_refresh": "Auto Refresh"
+  },
+  "bans": {
+    "title": "Ban Management",
+    "description": "Manage server blacklist and ban records",
+    "refresh": "Refresh",
+    "manual_ban": "Manual Ban",
+    "list_title": "Ban List",
+    "list_count": "Current {{count}} records",
+    "search_placeholder": "Search identifier or reason...",
+    "fetch_failed": "Failed to load ban list",
+    "ban_success": "Banned successfully",
+    "ban_failed": "Ban failed",
+    "unban_success": "Unbanned",
+    "op_failed": "Operation failed",
+    "loading": "Loading...",
+    "not_found": "No results found",
+    "try_refine_search": "Try refining your search",
+    "no_ban_records_desc": "Ban list is empty, you can add records manually",
+    "empty": "No Ban Records",
+    "table": {
+      "number": "#",
+      "identifier": "Identifier",
+      "target": "Ban Target",
+      "reason": "Reason",
+      "date": "Ban Date",
+      "start_date": "Start Date",
+      "end_date": "End Date",
+      "actions": "Actions",
+      "empty": "No Ban Records",
+      "empty_desc": "Ban list is empty, you can add records manually",
+      "unban": "Unban"
+    },
+    "create": {
+      "reason_placeholder": "Enter detailed reason...",
+      "identifier_placeholder": "e.g. 127.0.0.1 or PlayerName",
+      "submit": "Submit Ban",
+      "identifier_label": "Ban Target (IP/UUID/Username)",
+      "reason_label": "Ban Reason",
+      "title": "Add Ban Manually"
+    },
+    "delete": {
+      "cancel": "Cancel",
+      "confirm": "Confirm Unban",
+      "confirm_hard": "Confirm Permanent Delete",
+      "hard_delete_label": "Permanently delete (hard delete)",
+      "title": "Confirm Unban?",
+      "description": "Are you sure you want to unban {{identifier}}? This will take effect immediately."
+    }
+  },
+  "users": {
+    "refresh": "Refresh",
+    "update_success": "User information updated successfully",
+    "create_success": "User created successfully",
+    "fetch_groups_failed": "Failed to load permission groups",
+    "fetch_failed": "Failed to load user list",
+    "title": "User Management",
+    "list_title": "User List",
+    "list_count": "Total {{count}} registered users",
+    "update_failed": "Failed to update user information",
+    "create_failed": "Failed to create user",
+    "delete_failed": "Failed to delete user",
+    "create_user": "Create User",
+    "delete_success": "User deleted successfully",
+    "description": "Manage registered users and their permission groups.",
+    "table": {
+      "username": "Username",
+      "group": "Permission Group",
+      "actions": "Actions",
+      "empty_title": "No users found",
+      "empty_desc": "There are no registered users on the server yet",
+      "edit_user": "Edit User",
+      "delete_user": "Delete User"
+    },
+    "create_sheet": {
+      "title": "Create New User",
+      "username_label": "Username",
+      "username_placeholder": "Enter username",
+      "password_label": "Password",
+      "password_placeholder": "Enter password",
+      "group_label": "Assign Permission Group",
+      "group_placeholder": "Select a group...",
+      "group_select_default": "Unassigned (default)",
+      "cancel": "Cancel",
+      "submit": "Create User"
+    },
+    "edit_sheet": {
+      "title": "Edit User: {{name}}",
+      "password_label": "Change Password",
+      "password_hint": "(leave empty for no change)",
+      "password_placeholder": "Enter new password",
+      "group_label": "Change Permission Group",
+      "group_placeholder": "Select new group...",
+      "cancel": "Cancel",
+      "submit": "Save Changes"
+    },
+    "delete_dialog": {
+      "title": "Confirm Delete?",
+      "description": "Are you sure you want to delete user {{name}}? This action cannot be undone.",
+      "cancel": "Cancel",
+      "confirm": "Confirm Delete"
+    }
+  },
+  "groups": {
+    "create_success": "Group created successfully",
+    "create_group": "Create Permission Group",
+    "update_success": "Group information updated",
+    "description": "Manage server ranks, prefixes, and permission assignments.",
+    "refresh": "Refresh",
+    "delete_confirm": "Are you sure you want to delete group {{name}}?",
+    "fetch_failed": "Failed to load permission groups",
+    "delete_success": "Group deleted",
+    "op_failed": "Operation failed",
+    "title": "Permission Management",
+    "delete_failed": "Delete failed",
+    "card": {
+      "parent": "Parent Group",
+      "none": "None",
+      "permissions": "Permissions count",
+      "permissions_title": "Assigned Permissions ({{count}})",
+      "no_permissions": "No permissions assigned to this group",
+      "edit": "Edit Group Info",
+      "delete": "Delete this group"
+    },
+    "form": {
+      "edit_title": "Edit Permission Group",
+      "create_title": "New Permission Group",
+      "name_label": "Group Name",
+      "name_placeholder": "Enter group name...",
+      "parent_label": "Inherit Parent",
+      "parent_placeholder": "Empty for no inheritance",
+      "chatcolor_label": "Chat Color",
+      "chatcolor_placeholder": "e.g. 255,255,255 (R,G,B)",
+      "permissions_label": "Permissions (comma separated)",
+      "permissions_placeholder": "e.g. tshock.admin,tshock.kick",
+      "cancel": "Cancel",
+      "submit": "Confirm Submit",
+      "save": "Save Changes"
+    }
+  },
+  "commands": {
+    "clear": "Clear Console",
+    "console_simulator": "Console Simulator",
+    "description": "Send backend commands directly to the server.",
+    "terminal_ready": "System ready. Waiting for commands...",
+    "color_rendering": "Color Text Rendering",
+    "shortcut_send": "Send",
+    "execute_failed": "Execution Failed",
+    "send": "Send",
+    "shortcut_history": "Browse History",
+    "shortcut_autocomplete": "Autocomplete",
+    "title": "Command Execution",
+    "placeholder": "Enter server command...",
+    "terminal_user_prefix": "Current User",
+    "input_placeholder": "Enter server command...",
+    "press_enter_to_send": "Send",
+    "press_tab_to_complete": "Complete",
+    "use_keys": "Use",
+    "press_arrow_to_history": "History"
+  },
+  "events": {
+    "title": "World Events",
+    "description": "Trigger world events, weather, or invasions",
+    "autosave": "Autosave",
+    "list": {
+      "inv_martians": "Martians",
+      "inv_frost": "Frost Moon",
+      "rain": "Rain",
+      "sandstorm": "Sandstorm",
+      "meteor": "Meteor",
+      "bloodmoon": "Blood Moon",
+      "inv_goblins": "Goblins",
+      "inv_pirates": "Pirates",
+      "eclipse": "Eclipse",
+      "inv_pumpkin": "Pumpkin Moon",
+      "fullmoon": "Full Moon",
+      "party": "Party",
+      "rain_slime": "Slime Rain",
+      "inv_snowmen": "Snowmen"
+    },
+    "notices": {
+      "event_triggered": "Triggered world event: {{label}}",
+      "autosave_enabled": "World autosave enabled",
+      "autosave_disabled": "World autosave disabled",
+      "action_failed": "Action failed: {{error}}"
+    }
+  },
+  "system": {
+    "notices": {
+      "config_reloaded": "Configuration reloaded",
+      "shutdown_sent": "Shutdown command sent",
+      "restart_sent": "Restart command sent",
+      "butcher_success": "Hostile monsters cleared",
+      "world_saved": "World data saved successfully",
+      "action_failed": "Action failed: {{error}}"
+    },
+    "title": "System Management",
+    "restart_sheet": {
+      "skip_save": "Skip World Save",
+      "confirm": "Restart Now",
+      "confirm_title": "Confirm Restart",
+      "broadcast_placeholder": "Server will restart in 1 minute...",
+      "warning_text": "Are you sure you want to restart the server? All online players will be disconnected.",
+      "cancel": "Cancel",
+      "broadcast_label": "Broadcast Message"
+    },
+    "shutdown_sheet": {
+      "skip_save": "Skip World Save",
+      "confirm": "Shutdown Now",
+      "confirm_title": "Confirm Shutdown",
+      "broadcast_placeholder": "Server is shutting down...",
+      "warning_text": "Warning: This will completely stop the server process. You may need manual intervention to start it again.",
+      "cancel": "Cancel",
+      "broadcast_label": "Broadcast Message"
+    },
+    "maintenance": {
+      "save_world": "Save All Worlds",
+      "reload_config": "Reload Server Config",
+      "title": "System Maintenance",
+      "description": "Contains common maintenance functions",
+      "butcher_npcs": "Butcher Hostile NPCs"
+    },
+    "description": "Restart or shut down the server",
+    "danger_zone": {
+      "restart": "Restart Server",
+      "shutdown": "Shutdown Server",
+      "title": "Danger Zone",
+      "description": "These actions will interrupt server operation. Use with caution."
+    }
+  }
+}

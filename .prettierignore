@@ -1,0 +1,13 @@
+# Artifacts
+dist/
+build/
+target/
+src-tauri/
+
+# Dependencies
+node_modules/
+pnpm-lock.yaml
+
+# OS files
+.DS_Store
+Thumbs.db
