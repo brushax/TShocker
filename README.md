@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/brushax/Tshocker/releases">
-    <img src="https://img.shields.io/github/v/release/brushax/Tshocker?style=flat-square&color=blue" alt="release">
+  <a href="https://github.com/brushax/TShocker/releases">
+    <img src="https://img.shields.io/github/v/release/brushax/TShocker?style=flat-square&color=blue" alt="release">
   </a>
-  <a href="https://github.com/brushax/Tshocker/actions/workflows/release.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/brushax/Tshocker/release.yml?branch=main&style=flat-square" alt="build status">
+  <a href="https://github.com/brushax/TShocker/actions/workflows/release.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/brushax/TShocker/release.yml?branch=main&style=flat-square" alt="build status">
   </a>
   <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows-lightgrey?style=flat-square" alt="platform">
   <img src="https://img.shields.io/badge/tauri-2.0-blue?style=flat-square&logo=tauri" alt="tauri">
@@ -56,11 +56,11 @@ Terraria item and NPC datasets bundled in `public/data/` are generated from [Ter
 
 ### Windows
 
-Download the latest installer from [Releases](https://github.com/brushax/Tshocker/releases).
+Download the latest installer from [Releases](https://github.com/brushax/TShocker/releases).
 
 ### macOS
 
-Download the `.dmg` or `.app` from [Releases](https://github.com/brushax/Tshocker/releases).
+Download the `.dmg` or `.app` from [Releases](https://github.com/brushax/TShocker/releases).
 
 ## Development
 

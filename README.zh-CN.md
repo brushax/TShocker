@@ -9,11 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/brushax/Tshocker/releases">
-    <img src="https://img.shields.io/github/v/release/brushax/Tshocker?style=flat-square&color=blue" alt="release">
+  <a href="https://github.com/brushax/TShocker/releases">
+    <img src="https://img.shields.io/github/v/release/brushax/TShocker?style=flat-square&color=blue" alt="release">
   </a>
-  <a href="https://github.com/brushax/Tshocker/actions/workflows/release.yml">
-    <img src="https://img.shields.io/github/actions/workflow/status/brushax/Tshocker/release.yml?branch=main&style=flat-square" alt="build status">
+  <a href="https://github.com/brushax/TShocker/actions/workflows/release.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/brushax/TShocker/release.yml?branch=main&style=flat-square" alt="build status">
   </a>
   <img src="https://img.shields.io/badge/platform-macOS%20%7C%20Windows-lightgrey?style=flat-square" alt="platform">
   <img src="https://img.shields.io/badge/tauri-2.0-blue?style=flat-square&logo=tauri" alt="tauri">
@@ -56,11 +56,11 @@ TShocker 是一个跨平台的 **[TShock](https://github.com/Pryaxis/TShock)** �
 
 ### Windows
 
-从 [Releases](https://github.com/brushax/Tshocker/releases) 下载最新的安装包。
+从 [Releases](https://github.com/brushax/TShocker/releases) 下载最新的安装包。
 
 ### macOS
 
-从 [Releases](https://github.com/brushax/Tshocker/releases) 下载 `.dmg` 或 `.app` 文件。
+从 [Releases](https://github.com/brushax/TShocker/releases) 下载 `.dmg` 或 `.app` 文件。
 
 ## 本地开发
 
